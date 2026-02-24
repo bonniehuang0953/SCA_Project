@@ -1,0 +1,445 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,22544403,1873852,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,6128,626,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,4598702,425252,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,13728576,1785080,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,1141171,124566,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,43856,16051,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,464658,34836,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,23533543,1658529,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,2547,490,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,684,54,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,556752,27737,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,3072937,428516,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,2237928,147881,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,154003,10102,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,1715,728,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,402692,42467,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,2408659,173790,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,67860,22453,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,231903,28609,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,53671,3429,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,20030481,5535163,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,98546,11104,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,5458595,835737,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,3475029,469595,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,33421628,10973829,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,855020,127072,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,444783,30716,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Minnesota,414,82,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,327279,14731,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,180148,31800,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,795,108,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,146575,33196,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,23467,18216,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,9132924,829929,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,79799,8965,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,13573835,1414347,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,2248816,348512,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,1381375,87112,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,3486613,292079,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,23064938,1671679,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,131657,25032,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,66352,3483,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,679440,72656,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Colorado,1,1,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,66305,14061,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,333096,21830,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,99,8,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,10200035,1118672,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,135620,11931,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,6361261,573232,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Delaware,9226,2177,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,135642,35924,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,1986,253,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Texas,58134,6216,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,2271,261,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,1690982,176059,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,9468556,1154353,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,490906,60065,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,1430639,118904,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,261075,35603,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,800,40,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,1045,74,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,67391,13433,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United Arab Emirates",N/A,120,9,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Uruguay",N/A,78353,18108,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,55924,2754,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,11938132,1211585,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Colombia",N/A,1355,82,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,19610873,1486360,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,1,0,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,3735777,258402,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,8,13,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,40890,3916,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,164234,23057,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Colombia",N/A,637,98,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,2222992,2594105,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,177680,31077,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,7143398,8052236,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,248998,19848,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,27523,4406,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,364586,27532,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,4247,211,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,30400,20900,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Australia",N/A,18097,800,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,56781744,5957007,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Illinois,92318,15676,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,150213,11325,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,5366956,531949,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,97183,18750,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,1274093,67287,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,1980567,130014,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,502529,106303,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,234466,74217,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,1197897,107697,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,171448,20573,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,14057588,1603586,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,3,3,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,606778,56717,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,32978840,11494681,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,44101,3856,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,144876,16773,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,14264989,1844061,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,62731,12935,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,1534130,100943,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Texas,4777,327,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,2189297,209482,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,6391858,612302,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,214022,27325,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,1253508,85036,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,892430,99695,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,12347952,1613651,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,30335,1939,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,12144325,1218214,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,2776,217,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,5210742,748153,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,3930,1228,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,7831335,9537378,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,952531,92680,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,97782,20936,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,174582,15546,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,9286,2764,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,205641,20244,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,652364,121162,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Australia",N/A,141533,5589,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,10218665,990064,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,67533,9401,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,428405,116073,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,24817823,1900962,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,7199054,792598,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,2536917,351442,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,1515561,153814,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,7581944,1064436,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,11949,576,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,2195254,435921,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,195787,33465,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,220174,98038,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,206164,16656,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,2968746,278822,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Pennsylvania,120888,19518,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,10078760,1249990,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Dominican Republic",N/A,454,212,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,2945150,240759,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,13003142,1113001,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,2190543,238438,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,14706545,1746072,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,178644,18661,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,25972357,1768854,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Puerto Rico,13425,295,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,2067,204,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,5389402,787152,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,409957,238217,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,10726895,1357475,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,679,111,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,41,1,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,209115,136135,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,52783,7753,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,40,1,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,35659,1981,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,53384,17374,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,1176561,123832,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New York,797869,210265,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,428206,34148,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,260340,18470,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Uruguay",N/A,170914,38039,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,1014151,376337,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,320208,28864,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Texas,8008,764,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,505,46,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,150,12,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,2916690,176110,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,316,28,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,231233,27458,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,854714,99179,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,7698710,769969,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,67671,22453,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,483995,44892,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,1034797,152237,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,12490344,3679147,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,94370,21189,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,339616,75736,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",South Carolina,71620,8033,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Uruguay",N/A,58913,16065,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,890,108,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,229321,39388,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,53118,7050,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,442,44,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,5410934,350760,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,2454510,610466,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,1392418,207536,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,10246,1110,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,7393442,854729,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,12320399,3610500,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,1479985,218037,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,69129,4093,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,48771687,4126347,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New York,503998,408233,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,452798,81026,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,41103965,4300379,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,28,22,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,1474,120,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,47379,30119,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,2233,711,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,20458,1881,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,24970230,1991523,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Kansas,2669,871,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,380364,24865,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Arizona,11352,622,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,456428,39274,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,175113,12828,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,3726447,432286,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,228000,133802,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,139453,38919,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,577915,90125,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,3811885,1217180,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,1070,242,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,788511,159180,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,235978,41699,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,742,89,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,28493879,1925850,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,2388527,161146,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,1731130,144029,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,253796,13406,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Colombia",N/A,1451,225,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,17927346,1755730,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,12119142,1259139,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,3150708,307635,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,28852,2602,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,88668,7463,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,391647,58388,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"South Africa",N/A,14838,480,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,2569402,209321,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,232951,27771,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,46391,3542,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,492074,89320,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,132035,15268,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,11594,936,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,1024325,111266,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Australia",N/A,2793,80,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Colorado,14,1,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,214009,13860,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,1207,44,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Texas,9944,1764,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Colorado,8,0,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,39,14,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,22798470,2318878,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,601074,53597,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,11838099,1119539,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,1266756,112081,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,52091,3416,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,382699,56981,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,326662,66637,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,55632,18419,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,467502,85108,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Colombia",N/A,8237,529,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,54587045,5629235,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,92722,11010,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,153614,26105,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,656000,143399,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,203837,32268,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,1559,136,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Dominican Republic",N/A,90,3,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,15354692,1409364,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,569182,43618,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,10423776,1168389,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,11895,736,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Nevada,66689,15546,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,268450,33116,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,2298,171,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Pennsylvania,1650,122,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,1310965,88751,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,62010,5748,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,532249,26344,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,383828,30481,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,731880,86059,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,96648,5966,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Sri Lanka",N/A,180,18,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,4701933,325889,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New York,9816,4222,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,693,60,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,25489670,2216145,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,223573,14154,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,1056822,61291,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,420,625,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,322138,32519,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,4455466,631924,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,8487241,1280469,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,1565000,227004,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,416661,66973,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,131706,22251,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Colorado,7712,1331,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,113418,37591,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,37082842,2307325,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Pennsylvania,61,7,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,11313,269,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New York,671531,554147,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,2030618,224789,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,667764,95063,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,15223105,1221580,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,10830058,1095635,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,269684,63468,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,116503,36741,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,55614,16460,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,3582171,392896,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,8351973,654677,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Pakistan",N/A,50,47,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,494327,44822,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,197581,9144,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,5523109,680414,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,2119083,331718,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New York,17,3,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,1009443,138982,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,556383,71636,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,728837,65840,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,244088,42859,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,235980,11986,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,3623,134,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,11287731,1189472,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,902,96,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,5647381,585730,Weight in kilograms
+2023-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,21091,1836,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,1417476,180244,Weight in kilograms
+2023-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,1403044,93061,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,27671,4651,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,316330,33339,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,14953743,1460542,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,3416772,319401,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,9300567,1156363,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,2694,295,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,14881034,5490912,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,221719,27419,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,2032365,234503,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,476829,43580,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Australia",N/A,62930,20657,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,501799,379082,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"New Zealand",N/A,21263,1461,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"India",N/A,584,75,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,386190,68173,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,320595,57214,Weight in kilograms
+2024-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,10056339,735582,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,15,2,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,245,30,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,52276,17690,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,9540002,824069,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,369872,57932,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,624825,89106,Weight in kilograms
+2024-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,18119031,2737694,Weight in kilograms
+2024-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,4617103,1261818,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,12067700,1420145,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,2365574,314022,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,13245,1297,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Australia",N/A,79551,2855,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,43188616,5464080,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,55187,4315,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,1,1,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,154755,12509,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,23882278,1751019,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,1668,144,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,16822,1023,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,106761,21591,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,988943,211831,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,794,84,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,4330582,290560,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,720,92,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,6752952,458953,Weight in kilograms
+2025-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,103952,14358,Weight in kilograms
+2025-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,3465254,359087,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,31716964,11192968,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,1178359,76110,Weight in kilograms
+2025-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,4045451,862792,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Kansas,17,3,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,3969915,3029994,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,361995,22752,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Texas,104087,14631,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,9352361,2987271,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"South Africa",N/A,4738,225,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,7,3,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,949,38,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Kansas,14,1,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,3113255,275941,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,54529,17962,Weight in kilograms
+2023-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,2598405,176968,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,64352,5434,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,18948,2613,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,21579,2938,Weight in kilograms
+2023-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,2832721,210639,Weight in kilograms
+2023-05-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,208884,13000,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,606005,112022,Weight in kilograms
+2023-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,101819,9665,Weight in kilograms
+2023-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,3199528,385435,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,12540374,933141,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Florida,77291,15676,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,2703824,194029,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,88239,11842,Weight in kilograms
+2023-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,14323700,5092167,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Uruguay",N/A,19948,4896,Weight in kilograms
+2023-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",North Carolina,137669,10451,Weight in kilograms
+2023-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Australia",N/A,41744,4205,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,31472328,2530723,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,247462,12521,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,696984,35676,Weight in kilograms
+2023-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,133787,94533,Weight in kilograms
+2023-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,5532,917,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,11320983,1357398,Weight in kilograms
+2024-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,13069993,1040022,Weight in kilograms
+2024-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Morocco",N/A,3713623,239568,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,80875,12052,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,10885,1000,Weight in kilograms
+2024-04-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,5549321,498614,Weight in kilograms
+2024-06-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Georgia,4641680,730866,Weight in kilograms
+2024-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,941127,72881,Weight in kilograms
+2024-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,16919256,1000438,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,483306,35325,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,663907,122112,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"South Africa",N/A,13051,400,Weight in kilograms
+2024-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,935983,1130888,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Washington,379412,64001,Weight in kilograms
+2024-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,50932,34711,Weight in kilograms
+2024-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,821289,144623,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Peru",N/A,28269053,3132754,Weight in kilograms
+2025-02-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,10621001,1240758,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,112697,25174,Weight in kilograms
+2025-01-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,117342,37067,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,116867,35565,Weight in kilograms
+2025-03-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,570,821,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Chile",N/A,15801,961,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Michigan,494031,56710,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,46639,5464,Weight in kilograms
+2025-07-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Maine,2026038,1501767,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,48444,2814,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",California,498494,32633,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,1498943,127692,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",New Jersey,2489,140,Weight in kilograms
+2025-11-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Mexico",N/A,2786792,263778,Weight in kilograms
+2025-08-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Oregon,3271594,1168153,Weight in kilograms
+2025-09-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Canada",N/A,7937,113,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"Argentina",N/A,870424,102771,Weight in kilograms
+2025-10-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Massachusetts,1143,43,Weight in kilograms
+2025-12-01,"0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Canada,"United States",Wisconsin,524401,110892,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24

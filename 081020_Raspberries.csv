@@ -1,0 +1,314 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2023-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New Jersey,4,0,Weight in kilograms
+2023-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,1406120,131680,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,713390,82240,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,1086077,94084,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,50366,3309,Weight in kilograms
+2023-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Chile",N/A,2058,264,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,41267,5443,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Bangladesh",N/A,43,5,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,76735,6538,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Pennsylvania,41510,2792,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,111852,11968,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,34753,7200,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,3519706,242983,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,66449,18144,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,1,0,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,27299204,2449951,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,11818,588,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,809315,103097,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,127441,13886,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Afghanistan",N/A,4917,499,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,173472,12398,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,26211301,2376112,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,12988,2395,Weight in kilograms
+2024-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,36438623,3199465,Weight in kilograms
+2024-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,597010,48361,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,129803,9717,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,218561,17238,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,300450,48924,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Brazil",N/A,16,0,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,707299,83662,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,6359,2722,Weight in kilograms
+2025-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,6090,432,Weight in kilograms
+2025-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,69880,9051,Weight in kilograms
+2025-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,58128259,4536277,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,94822,8818,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,16662249,1225705,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New York,23862,3135,Weight in kilograms
+2025-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Uganda",N/A,6,6,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Senegal",N/A,43,9,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,266073,19142,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,22949524,1904546,Weight in kilograms
+2025-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,4416253,334689,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,489731,46894,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,663,52,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,4782562,353343,Weight in kilograms
+2023-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,16514,2006,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"India",N/A,345,60,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,1089913,106592,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,396,91,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,9138,659,Weight in kilograms
+2023-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,503660,45021,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,566932,55258,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,2390,98,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,509684,64167,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,2276,408,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,15774929,1403273,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New Jersey,64747,14500,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,157,91,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,14155,312,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,484797,116991,Weight in kilograms
+2024-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,99724,9281,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,43491637,3529556,Weight in kilograms
+2025-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,326760,25828,Weight in kilograms
+2025-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,45853065,3452312,Weight in kilograms
+2025-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,1543812,108385,Weight in kilograms
+2025-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Canada",N/A,66,2,Weight in kilograms
+2025-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,8925960,705220,Weight in kilograms
+2025-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,147387,6641,Weight in kilograms
+2025-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Peru",N/A,631,75,Weight in kilograms
+2025-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,14830766,1278344,Weight in kilograms
+2025-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,28611,1976,Weight in kilograms
+2025-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,40035,10437,Weight in kilograms
+2025-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Arizona,166,25,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,472,54,Weight in kilograms
+2023-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,44988808,3615862,Weight in kilograms
+2023-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,1353012,124088,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,21981309,1674421,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,68199,5565,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,78205,15188,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,700,57,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,1026809,76136,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,50570,5100,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,1386,119,Weight in kilograms
+2023-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,2875,299,Weight in kilograms
+2023-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,52251,2640,Weight in kilograms
+2023-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,1146,203,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,2151009,150946,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,26106,1529,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Chile",N/A,62360,7773,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,8313,756,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,5867,220,Weight in kilograms
+2024-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,23143,2307,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,11472426,869944,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Chile",N/A,7185,1200,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,3857460,250132,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,20195,2508,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,36748,4309,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"India",N/A,522,66,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,2881534,1442018,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,18308679,1303210,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,52023,3211,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,65918,10550,Weight in kilograms
+2024-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,180599,16854,Weight in kilograms
+2024-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,7661489,561885,Weight in kilograms
+2025-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,1214,166,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,94096,9506,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,6610560,667742,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,1041336,94296,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Arkansas,5730,551,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,18161366,1898933,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,278102,32826,Weight in kilograms
+2025-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,59169,4773,Weight in kilograms
+2023-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,245189,16652,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,713678,73225,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,24824848,1806641,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,4075201,366325,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,21527843,1737761,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,116892,8306,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,43729,3730,Weight in kilograms
+2023-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,38238092,3001739,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,436444,53230,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,135,20,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,21674,1796,Weight in kilograms
+2023-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Peru",N/A,79,7,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Peru",N/A,100,13,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Afghanistan",N/A,19370,7913,Weight in kilograms
+2024-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,4610116,325610,Weight in kilograms
+2024-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,44653143,3743600,Weight in kilograms
+2024-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,550057,84700,Weight in kilograms
+2024-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,138261,31669,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"India",N/A,56,27,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,16661,1865,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,18327,3266,Weight in kilograms
+2024-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,37638039,3036924,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,93638,17882,Weight in kilograms
+2024-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"India",N/A,60,1,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New Jersey,24051,2682,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,791397,85885,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,422979,121166,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,378889,25799,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Canada",N/A,59603,2722,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,124264,9966,Weight in kilograms
+2025-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,196780,29883,Weight in kilograms
+2025-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Arizona,15650,488,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,45421,2939,Weight in kilograms
+2025-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,5554,544,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,1071784,101611,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Minnesota,230,93,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New York,47991,2939,Weight in kilograms
+2023-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,10014,2347,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,323558,42588,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,11781,686,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Canada",N/A,21539,1228,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,16531846,1436890,Weight in kilograms
+2023-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,7028,1017,Weight in kilograms
+2023-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,41558758,3695483,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,36406157,2625013,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,19260,1248,Weight in kilograms
+2023-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,52488,7277,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,156471,10172,Weight in kilograms
+2024-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,64190,5096,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,182315,13896,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,31969,8698,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,8886,347,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,249649,29484,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,19542550,1378301,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,1660096,174645,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,5516,392,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Canada",N/A,339,54,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,6265771,409349,Weight in kilograms
+2025-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Peru",N/A,860,150,Weight in kilograms
+2025-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,116218,10410,Weight in kilograms
+2024-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,81011,11376,Weight in kilograms
+2025-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"India",N/A,1768,175,Weight in kilograms
+2025-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,329523,163905,Weight in kilograms
+2025-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,139169,11120,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,1053,177,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Arkansas,103251,9837,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,117195,9807,Weight in kilograms
+2025-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,52797117,5254652,Weight in kilograms
+2025-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,112511,13717,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,109727,15076,Weight in kilograms
+2023-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,33042669,2899395,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,34,2,Weight in kilograms
+2023-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,38852,2482,Weight in kilograms
+2023-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,51402,3824,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,42062493,3568344,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,29942,5425,Weight in kilograms
+2023-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Peru",N/A,7801,544,Weight in kilograms
+2023-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Illinois,1,0,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,21898,1521,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,75789,5211,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,30847,2490,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,10798252,880820,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,25212542,2332291,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Massachusetts,206,8,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Ghana",N/A,316,100,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,55567,4501,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,196068,18755,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,111852,10600,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,75868,7031,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,32174498,2968349,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,7374,392,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,38512787,2758873,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,231779,52039,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,44907363,3435997,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,468468,107486,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,712,99,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,12088,842,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Ohio,301,27,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,15114280,1217750,Weight in kilograms
+2024-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Chile",N/A,14,0,Weight in kilograms
+2024-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,15031341,1191596,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Pennsylvania,3771,838,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,245816,35927,Weight in kilograms
+2024-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,168710,36952,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Minnesota,1520,113,Weight in kilograms
+2025-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,41656586,3182211,Weight in kilograms
+2025-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,39212331,2758226,Weight in kilograms
+2025-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,8,2,Weight in kilograms
+2025-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,1352620,90172,Weight in kilograms
+2025-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,63063,15870,Weight in kilograms
+2025-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,28173,2111,Weight in kilograms
+2025-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,1359,40,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,24018928,2207954,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,27560430,2225563,Weight in kilograms
+2025-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,150116,31483,Weight in kilograms
+2025-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,108483,10788,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,1263959,118830,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,153677,23673,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,57450,3993,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,139675,17572,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,407025,41916,Weight in kilograms
+2023-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,12520,1960,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,52105360,4103670,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,217364,37071,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New Jersey,35299,4567,Weight in kilograms
+2023-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,115704,13888,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,2099,166,Weight in kilograms
+2023-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",South Dakota,17644,4355,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,12446,986,Weight in kilograms
+2023-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,413806,38447,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,2355159,205014,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New Jersey,2245,97,Weight in kilograms
+2023-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,27027,1176,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,43472,4811,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,187952,18707,Weight in kilograms
+2023-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,36039,1969,Weight in kilograms
+2023-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,514836,61087,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,43132404,3369889,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,128200,4197,Weight in kilograms
+2024-05-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,235491,36419,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,33258,3722,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Sri Lanka",N/A,168,21,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,5652848,451139,Weight in kilograms
+2024-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,2980,408,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,751864,91108,Weight in kilograms
+2024-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,179498,35765,Weight in kilograms
+2024-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Michigan,69,1,Weight in kilograms
+2025-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,516653,44708,Weight in kilograms
+2025-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,2051392,139855,Weight in kilograms
+2025-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,48655693,3852629,Weight in kilograms
+2024-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,224197,53880,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,7119543,2161335,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,9220572,920221,Weight in kilograms
+2025-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,94622,9172,Weight in kilograms
+2025-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,2847728,203751,Weight in kilograms
+2023-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,2485189,239565,Weight in kilograms
+2023-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,34809837,2590341,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,13145266,1040381,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,21028,1662,Weight in kilograms
+2023-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",South Carolina,8905,697,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,3111804,1474139,Weight in kilograms
+2023-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Peru",N/A,109,9,Weight in kilograms
+2023-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,1658949,145301,Weight in kilograms
+2023-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,6452429,577602,Weight in kilograms
+2023-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Maryland,33713,3919,Weight in kilograms
+2023-12-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,4371035,323540,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,40,13,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Texas,194796,18715,Weight in kilograms
+2024-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,3275,225,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Wisconsin,5186,196,Weight in kilograms
+2023-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Oregon,497,49,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,12630,2609,Weight in kilograms
+2024-02-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Idaho,3,0,Weight in kilograms
+2024-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,2590836,188498,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Massachusetts,108,4,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New Jersey,69976,14098,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,752210,102739,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,856318,117106,Weight in kilograms
+2024-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",South Carolina,7358,1393,Weight in kilograms
+2024-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Georgia,491,88,Weight in kilograms
+2024-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New York,4,0,Weight in kilograms
+2025-01-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,2849289,188511,Weight in kilograms
+2025-04-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,5971,378,Weight in kilograms
+2025-03-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,33198,2939,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",New York,64893,4409,Weight in kilograms
+2025-07-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",California,24739645,1969014,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Florida,21279,1633,Weight in kilograms
+2025-06-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,9615,858,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,26457,1642,Weight in kilograms
+2025-08-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",North Carolina,253380,16024,Weight in kilograms
+2025-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,40102153,3916252,Weight in kilograms
+2025-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Mexico",N/A,46660431,4380065,Weight in kilograms
+2025-11-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Washington,70026,13056,Weight in kilograms
+2025-09-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"United States",Colorado,6745,441,Weight in kilograms
+2025-10-01,"0810.20 - Raspberries, blackberries, mulberries and loganberries, fresh",Canada,"Guatemala",N/A,45764,9628,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24

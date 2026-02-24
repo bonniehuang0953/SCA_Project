@@ -1,0 +1,1219 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,1868,1205,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,214,100,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,26208,18285,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Colorado,22,14,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Connecticut,22,10,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,17419,18758,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,90041,111793,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,30745,35416,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,22244,17418,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,49725,20965,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,20759,17007,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,13866,2479,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1328,658,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,36530,36749,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,1022,336,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,1,1,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,5,4,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,16,7,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6692,1038,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Indiana,1,1,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,4936,1590,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,4250,1383,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,20124,16329,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,3,1,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,125,18,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,840,703,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,238,114,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,365,70,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,131,12,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,710,127,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nevada,9,9,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,88,25,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Rhode Island,25,16,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,12784,21772,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,19063,2084,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Greece",N/A,609,236,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Iran",N/A,248,84,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Türkiye",N/A,2341,174,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,22,8,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,1427,1879,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Tanzania, United Republic of",N/A,110,101,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Tanzania, United Republic of",N/A,94,180,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,56874,30960,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,46926,23892,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,57446,26571,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,37554,18227,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,35461,16539,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,19866,16192,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,10202,9778,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,15550,13664,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,23,5,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Cameroon",N/A,54,40,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,16,25,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,479,118,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,747,306,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,342,448,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,80,75,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Togo",N/A,8,7,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,38,7,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,33931,6787,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,32960,4204,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,27305,31147,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,43476,14181,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,57521,8716,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,61770,9298,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,59625,6564,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,2560,1133,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,8,3,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,4333,1189,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,4077,1375,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,5473,3267,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,237,31,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,59551,29722,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,2697,2105,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,8203,1467,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,7261,569,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,24828,1553,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,9240,582,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,30540,9784,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,49,47,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,979,544,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,326,132,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,11,7,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,7420,2225,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,7691,2435,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Fiji",N/A,66,12,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,26,15,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,24,16,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4582835,3934019,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,8049045,6679197,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,8699698,7090925,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,9100659,8128416,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,3843760,2719242,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5151186,3967793,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,4757719,3666356,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5168161,4055681,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,7136013,7275869,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,85482,42648,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,48436,22286,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,2823,1026,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,65557,19998,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,47850,22929,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,11412710,11884132,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,6762246,6780952,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,6866713,6754332,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,7173107,7233148,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,4344275,4051711,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,7897,14453,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,7807,7865,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,1667,3238,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,6508,7661,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,1268,2099,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,34270793,30836097,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,4063298,3124916,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2496177,1657446,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3394365,2259980,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3568905,3243980,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"El Salvador",N/A,784,506,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,25195151,23233789,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,25639982,23798742,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,27177861,25120512,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,30806697,28176918,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,35660767,31925073,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,32451505,29041774,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2821592,3069044,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,5240499,5504443,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3569071,3645347,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2022905,1922649,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4106561,4612777,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3126022,3198189,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,88084,124270,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,76276,104490,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,290260,322828,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,365568,354179,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,1762077,1737605,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,40468,34982,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,53351,65317,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,105334,99586,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,220413,208753,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,25294,12558,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,25725,19731,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,977,582,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1111,546,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1173,610,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,972,449,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Arizona,1180,654,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Arizona,732,191,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,4588,2298,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,90137,106303,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,22239,19051,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,6702,1535,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,14,10,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,283,47,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,13042,539,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,3939,1067,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,5163,2505,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,827,355,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,144,29,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,5283,4865,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,628,60,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,50,23,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,179,57,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,513,32,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nevada,1,1,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nevada,10,6,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,12,12,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,27,27,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,5,2,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,67441,53361,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,828,44,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,1368,912,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,1,1,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,1897,1742,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Washington,34,39,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,1325,1254,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,3326,1169,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,9198,459,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,14455,9623,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,25,15,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Virginia,2,2,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Wisconsin,2,2,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United Kingdom",N/A,257,10,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Netherlands",N/A,31,32,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ethiopia",N/A,604,120,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Türkiye",N/A,11554,7518,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Türkiye",N/A,1,1,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ghana",N/A,100,28,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ghana",N/A,10,6,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,2,1,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,145,134,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,1266,1684,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,3183,4147,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Tanzania, United Republic of",N/A,13,3,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,66531,22450,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,47916,22001,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,41854,19608,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,39992,17803,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,19463,14216,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,27546,20861,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,18113,13586,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,19191,12903,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Cameroon",N/A,32,24,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,365,785,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,454,180,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,42,78,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,364,205,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,10,6,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,468,87,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,22,19,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,21,17,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,88,84,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,36,10,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,41,10,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,29879,31573,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,81568,10147,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,6428,1842,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,12123,3299,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,344,90,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Japan",N/A,14,3,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Japan",N/A,26,8,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,6276,1513,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,13485,1944,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,6499,1581,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,7105,2491,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,4582,2469,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,9936,1336,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,3971,798,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,3662,1545,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,72507,30668,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,40714,27735,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,1344,802,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,11546,17626,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,13116,5733,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,16818,11213,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,483,166,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,7427,586,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,2834,2830,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,674,307,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,1014,447,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,413,180,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,29,19,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,5534,975,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4965,1277,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,9590,1742,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,2687,983,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Fiji",N/A,55,20,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,12,10,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,93,36,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6929328,6334307,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,5526453,5087644,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,5062221,4629866,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,3860911,3112219,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,3578336,2952908,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6782958,5355664,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,8768058,7395389,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,3697337,2668878,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,4371229,3136033,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,7811271,5867180,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,7728063,5846216,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5986188,4244360,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,782824,504388,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1163821,768145,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,535561,394584,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,51931,25088,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,47319,22512,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,62791,29870,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,2842,2125,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,46246,18967,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,11260,4870,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,87035,39521,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Trinidad and Tobago",N/A,55,5,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,5999152,5858205,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,6716653,7364080,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,8469802,8699894,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,9739597,8962324,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,4569549,4340263,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,7840,6002,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,32076,18359,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,3522,5812,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,6050,7730,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,136,535,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,1573203,1191854,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,1749393,1286734,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2913226,2168066,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3808860,2927706,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2538299,1740381,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,23618921,21826911,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,32423879,29573688,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,26579435,24564866,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,5217052,5405842,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4541045,4835806,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3207922,3476912,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4997277,5050909,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,313270,348998,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,292010,308807,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,645489,614077,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,830854,800672,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,1655595,1625511,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,1107505,1064277,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,186866,171931,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,16863,11938,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,21086,13220,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,14255,7473,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,23480,23762,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,66135,40432,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,1683,157,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,541,279,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,6315,1035,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Indiana,609,11,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Colorado,33,13,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,37245,34836,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,90420,105667,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,17395,17989,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,53202,37118,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,735,153,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,3,1,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,480,454,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6538,4359,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,1,0,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,8393,1527,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,10126,3351,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,3,1,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,15952,18289,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Oregon,8,12,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Iowa,467,45,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,7,2,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,307,120,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,244,92,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,124,15,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,758,182,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,2112,1043,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,21,19,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,60,57,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,9,3,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,58,74,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,134,12,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,89,38,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,200,84,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,12424,960,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,104,157,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,2546,1997,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,8403,5334,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,7499,2891,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,1336,219,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,9491,777,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,106,19,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,5753,1627,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Washington,21015,10052,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Poland",N/A,2757,218,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Saudi Arabia",N/A,13,2,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,42,46,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,1812,2477,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,2168,2901,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,884,986,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,39579,19133,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,15364,13783,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,18633,13084,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,146,65,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,11,9,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,187,202,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,12,10,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,129,20,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,29015,3420,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,25994,4857,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,30105,13815,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,34568,16078,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,66512,8300,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,39885,6656,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,2762,1072,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,22473,4796,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,3220,736,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,8691,2469,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,2994,113,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,2779,1684,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,14409,3935,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,8742,2085,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,11167,1909,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,14046,8167,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,72683,38385,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,76160,41855,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Taiwan",N/A,273,40,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,144,23,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,17714,5413,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,19515,3127,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,74,4,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,15665,5449,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,19025,18600,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,8956,5678,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4328,1162,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,3100,1373,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,2501,1098,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,6,10,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,5262121,4653948,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6049673,5515416,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6190853,5401608,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4856398,4204258,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6356018,5370478,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,4900252,3811702,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,3786978,2690074,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5206039,4146894,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,8645315,6957887,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,9777105,7710263,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,558085,327664,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,585609,381241,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,969558,638876,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1208796,785987,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,342814,192452,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1057733,637602,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1074912,713789,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1042753,669142,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,236897,127113,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,46342,27675,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,24493,14335,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,1057,305,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,1265,566,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Saint Lucia",N/A,5317,3962,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,6807290,6669897,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,10572720,11000505,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,4566710,4352557,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,5473845,5239131,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,5952,4862,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,1673,1159,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,9981,10709,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,11100,11801,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,6330,5012,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2283065,2222638,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,1773634,1483517,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,4985789,4139737,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3862169,2965697,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"El Salvador",N/A,270,20,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"El Salvador",N/A,21545,16329,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,20919951,18808850,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,21945328,20269436,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,35489998,32328640,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,29624441,27210134,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,24873301,21952268,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2880278,3173851,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3411241,3532859,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,1419127,1560948,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3810963,3910086,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4119625,4055609,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,113912,157151,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,117758,156728,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,106177,144671,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,131001,120962,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,99841,95255,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,499634,500929,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,13161,17418,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,13968,16492,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,280180,312550,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,76039,70816,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,196474,228160,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Arizona,5,4,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,29,15,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,13058,995,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,3033,1263,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,40,31,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,5490,500,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,9173,7265,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,108241,116736,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,35215,35426,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,32674,35122,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,9647,1925,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,49180,20341,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,18654,17414,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,6395,3331,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,308,19,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,1,0,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,5733,3741,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6476,1118,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6840,1038,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,15708,4003,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Indiana,23267,2390,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,3631,899,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,12,8,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,15418,17418,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,11600,5443,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Massachusetts,106,12,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,238,100,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,248,24,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,1107,135,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,22262,17469,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,13,4,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,110,7,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,1,1,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,424,87,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,8,5,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,32,7,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,18174,17418,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,78425,83353,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,17786,17717,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,18771,17708,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Dakota,2406,163,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,24405,17414,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Puerto Rico,26660,17414,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,2291,980,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Washington,3575,3431,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,9125,4354,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,95,87,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,166,123,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,2473,2130,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,7081,1136,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,321,242,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,20,3,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"France",N/A,130628,17414,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"France",N/A,52,18,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Norway",N/A,22,5,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Türkiye",N/A,5,5,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Türkiye",N/A,6522,542,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Egypt",N/A,7377,619,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,17,23,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,376,404,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,49151,20039,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,38421,24046,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,971,333,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,714,470,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,20,11,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,4,3,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,4,4,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,185,176,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,11,10,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,1,1,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,72,88,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,173,127,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,190,82,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Togo",N/A,8,8,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,68,10,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,38,23,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,34073,4945,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,31963,6858,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,39784,6803,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,5604,1667,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,3674,915,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Japan",N/A,4,1,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,12878,4989,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Cambodia",N/A,840,100,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,36579,34688,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,852,149,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,21780,3383,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,11497,860,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,28699,6803,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,13758,4667,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,8203,5145,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,716,299,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,860,444,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Taiwan",N/A,1293,862,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,62250,7038,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,30,20,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,7128,452,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,18324,6244,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,26639,11531,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,7626,1677,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,5971,1639,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,9,15,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,76,40,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,303,76,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6699748,5862190,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,8761950,7334340,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,7583125,6417366,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,5173429,3705216,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,7064494,6133281,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,9641152,7533009,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,558842,427954,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,707752,478256,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1082360,671821,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1030196,623171,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,614020,435677,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,371706,218512,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,2582,3829,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,44752,21583,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,48710,23039,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,5310692,5648473,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,8100303,7951508,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,7573052,6850657,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,7342355,6910480,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,6071224,5803677,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,23370,19255,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,623,671,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,3402,4348,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,2023,2647,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3131542,2907994,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,1988270,1462616,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2807280,2190538,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2895563,2232203,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3280533,2428356,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,27877355,25875904,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,28379855,25775462,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,30687944,28286486,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,29769958,28112434,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3515302,3790413,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,5756486,6080752,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2907529,3138650,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3679525,3866839,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,5048664,5109175,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2252032,1620019,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,74050,106270,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,218250,275559,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,220434,245520,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,273032,361223,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,329532,330870,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,555474,548343,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,197649,207816,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,531331,546295,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,975513,958307,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,12685,2811,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,14589,9182,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,1454,723,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,1409,968,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,20609,19093,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,27216,17748,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Colorado,7,7,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,18465,17414,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,30387,35580,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,17671,17414,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,9261,3453,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Georgia,3,1,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,321,40,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,290,200,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,1,1,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,3,3,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6531,269,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,2159,726,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,20161,17414,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,463,318,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,482,187,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,1256,70,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,999,307,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,580,62,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,156,144,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,7,2,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,14,14,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,35,19,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,32,9,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,20,8,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,15426,17418,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Ohio,33,3,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,2070,106,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,332,127,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,124,22,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,182,175,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,104,36,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",District of Columbia,20932,17417,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"France",N/A,67053,8707,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Croatia",N/A,12514,11319,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Iran",N/A,1194,211,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,45,5,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,12,5,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,519,520,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,655,832,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,1807,1861,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,78315,23937,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,45769,21235,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,38363,28755,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,65273,34988,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,25819,18884,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,422,473,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,979,919,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,267,180,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,1,1,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,18,15,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,10,10,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,5,5,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Comoros",N/A,15339,13931,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,22,25,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,59,60,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,38,32,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,165,31,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,182,27,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,20440,2520,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,50457,5415,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,40398,6401,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,57826,7968,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,7662,5145,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,6251,2007,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,5350,2182,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,97,92,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,1328,345,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,2365,273,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,1037,202,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Indonesia",N/A,3240,217,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Japan",N/A,11,3,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,2233,637,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Taiwan",N/A,1313,200,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,24316,2208,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,5520,5253,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,35863,12180,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,31713,17630,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,12542,1764,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,48,31,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,3422059,2456423,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,3305,532,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4878,794,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,6340,2288,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4367,1259,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,972,481,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4846,1500,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,8229,2662,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Cocos (Keeling) Islands",N/A,12401,8707,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Heard Island and McDonald Islands",N/A,16878,16543,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Fiji",N/A,37,16,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Pitcairn",N/A,52768,48851,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,212,105,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,417,171,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,691,300,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,3258751,2504379,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4281213,3390035,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,8534921,7464841,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,7346229,6448658,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,6967011,5856509,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,8336903,6955503,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5114040,3916954,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,10106342,8174681,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,7598114,7864909,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1026895,694496,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,70986,36808,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,40809,22149,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,40308,17280,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Saint Lucia",N/A,80,73,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,4848763,4703669,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,1552,3175,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,1014,1289,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,18566,19825,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2348907,1830416,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,1340027,966859,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3222868,2350326,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2478386,1703616,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3589433,3139626,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,31060805,28744897,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,1974267,2130996,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2397989,2725009,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4168970,4091187,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4434518,4637953,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2731842,2748569,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,104858,141100,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,223844,280711,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,295927,324829,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,197522,184576,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,888370,751692,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,1350778,1352684,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,1896634,1842272,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,60218,74517,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,20231,16627,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,7,5,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,24890,15079,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,50661,36364,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Arizona,1,0,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,16164,18579,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,172689,11977,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,11381,9865,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,19335,18427,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1588,806,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,3857,1916,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,7,3,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,277,256,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,528,65,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,6,5,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,15,2,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,1,2,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6863,1497,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,14195,2724,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6602,1038,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6710,1038,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,2628,1752,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,20,7,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,20,9,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,673,61,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Massachusetts,111,27,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,329,120,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,465,198,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,617,64,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,848,113,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,1106,241,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,20,18,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,19,18,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,33842,30310,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,7,7,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,206,17,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,4174,422,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,18891,17414,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,19252,17717,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Rhode Island,26,22,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,110,5,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,5999,2675,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,3,2,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,2606,1295,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Wisconsin,1,1,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Wisconsin,6,4,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United Kingdom",N/A,169,13,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United Kingdom",N/A,2707,214,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"France",N/A,30,7,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Greece",N/A,19241,17414,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Italy",N/A,2407,1197,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Iran",N/A,59,57,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,303,89,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,3,3,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,93,142,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,292,335,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Tanzania, United Republic of",N/A,68,64,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,58884,18478,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,52573,22861,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,20818,12975,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Cameroon",N/A,7,5,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Cameroon",N/A,44,24,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,18,19,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,40,35,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,1,1,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,40,36,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,55,51,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,23,24,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,65,36,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,13827,1966,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,62995,6298,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,41037,5646,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,5027,3291,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,5164,967,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,9938,1487,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,10429,3186,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,3745,1213,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,3958,1058,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,4053,812,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,930,858,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,14219,811,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,64,26,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,3,2,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,6,3,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,26866,17911,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,479,105,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,17397,4330,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,500,102,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,10732,7891,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,48326,18387,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,42230,38892,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,11035,17280,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Taiwan",N/A,1193,457,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,60,12,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,9695,9309,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,15768,1391,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,4038,304,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,42702,17071,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,13496,8009,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,109,7,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,328,165,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,60,39,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,1510,853,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,98,63,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,3040,598,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,2846,509,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,5226,1355,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,14861,4676,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,3064,1062,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,18063,2079,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6472752,5587064,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4477131,3809179,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,5254383,4072035,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,5741114,4605119,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,4522811,3424389,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5992830,4625450,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,8404091,6482065,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,521332,383157,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,598958,403795,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,51006,24196,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,82661,42741,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,622,227,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Saint Lucia",N/A,2160,1124,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Saint Lucia",N/A,10027,9887,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,12842125,13245708,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,10525652,10885980,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,5722243,5647678,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,5691887,5754628,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,5936797,6343609,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,6040152,5825901,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,950,697,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,2474,2202,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,3113,1991,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,2161,5328,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,26443,17218,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,1435,2918,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,1977803,1410791,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3731196,2965253,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2682670,1747674,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,1971808,1514299,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,25966263,23120033,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,26599331,24620379,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,30676776,27032638,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,31379240,28721223,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,5715731,5929310,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,5989315,6157440,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4144435,4393519,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3045595,2982975,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,1901242,1906439,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,5146892,5273374,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,102107,156633,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,1240429,1240374,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,6401,7838,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,225720,206270,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,100832,93644,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,78459,86873,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Arizona,1350,1242,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,50389,34332,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1070,619,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,982,461,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Arizona,4,1,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,1240,764,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,9570,11322,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Colorado,8109,7786,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,45953,35763,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,39251,10722,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,2742,1561,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,86,22,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Georgia,1,0,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Hawaii,13,1,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,3,2,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,5720,401,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,7549,896,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,16,18,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6872,4769,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,6588,588,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Indiana,80,4,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Indiana,77,49,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,1490,281,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,4961,1822,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,22216,15876,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,6,2,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,42,17,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,4121,3049,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,2411,2281,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,423,272,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Minnesota,45,27,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Missouri,3,3,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Missouri,1,1,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nevada,29,17,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,17768,18298,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,30834,33053,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,14775,18332,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,19725,16378,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,16,15,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,24,23,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,7,5,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,597,382,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,71,28,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,121,9,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,1782,91,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Puerto Rico,1412,871,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Puerto Rico,26708,17414,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,93,85,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,78,14,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,8,5,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,7876,1110,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United Kingdom",N/A,37,13,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"France",N/A,14,4,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Türkiye",N/A,4794,292,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,16,15,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,48,45,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,110,102,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,514,743,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,2820,3811,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,31763,15206,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,37576,24635,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,37666,20000,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,598,447,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,4,6,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,56,45,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,79,62,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,54,48,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,24970,3078,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,49314,4847,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,47684,8093,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,53059,8039,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,43933,6244,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,6679,1319,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,2169,425,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Japan",N/A,24,4,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,6584,3981,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,7832,1427,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,4961,1774,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,10558,3932,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Singapore",N/A,24,16,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,8015,600,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,24,10,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,15270,3008,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,1061,197,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,60215,20721,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,12181,3500,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,64505,22238,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,22635,13775,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,81034,52084,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,2744,240,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,21962,7659,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,740,326,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,299,150,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Chile",N/A,12,8,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,3997,1088,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4041,1022,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,2527,941,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,8967,2910,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Fiji",N/A,115,31,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"New Zealand",N/A,317,305,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guam",N/A,18104,19160,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,30601,17414,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,183,173,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,3978734,3500535,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6649298,5984493,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,9193750,7551453,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6739578,5774427,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4479503,3673756,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,6626300,5050920,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5787275,4182921,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,7937627,6355831,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,602016,368793,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1089817,669121,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,317142,228859,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,751188,547277,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,658519,434730,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,347712,222089,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,82863,38454,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,51016,25339,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,48702,21797,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,9373391,9862345,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,7941706,7970608,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,5097169,4786752,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,4281,6914,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,803,589,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,8835,8998,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,5573,8416,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2228594,2194280,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2716458,2184225,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3826498,2851625,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,5159425,4184386,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,219513,214005,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,20169772,18164409,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,25632347,23454621,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,25905828,23510165,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,24556858,22833545,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,27606479,24770322,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,26835573,23417670,Weight in kilograms
+2025-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,30529233,27787651,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,3124951,3423470,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,1519901,1588437,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2370625,2485686,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,102511,144670,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,377277,405789,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,308392,310511,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,383555,338527,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,530357,474006,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,1674247,1679216,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,402157,369851,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,217521,227504,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,176435,170654,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,12746,2671,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,82,54,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",California,81555,55990,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,11623,1225,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,6714,1212,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1073,524,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Colorado,19,13,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,30375,35488,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,90245,106248,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,14706,17708,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Delaware,35375,28037,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1188,525,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,1997,936,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Florida,19852,17637,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Georgia,8,4,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,2,2,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Idaho,3,2,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,978,902,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,9820,760,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Illinois,4,2,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Indiana,54817,52070,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Michigan,2732,316,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,33,22,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,15,3,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,19452,16311,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New York,148,63,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Pennsylvania,1897,1821,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Minnesota,218,68,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Minnesota,4,2,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,601,300,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,499,180,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,760,68,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,552,188,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nebraska,1127,90,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Nevada,59,57,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",New Jersey,23490,11175,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",North Carolina,15589,17418,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Puerto Rico,24680,17414,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,6529,9866,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Wisconsin,1,1,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,15160,12823,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Texas,12563,10668,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,3980,272,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,1307,181,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,8148,665,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,215,104,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,23283,1645,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,123,25,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Utah,95,49,Weight in kilograms
+2023-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"United States",Washington,11851,9717,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"France",N/A,133244,17414,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Netherlands",N/A,2,1,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,684,104,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nigeria",N/A,637,1063,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,66623,25132,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,24176,17554,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Uganda",N/A,21179,16907,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,144,489,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Burundi",N/A,349,427,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Benin",N/A,2,2,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,50,46,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,486,92,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,3,3,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,464,83,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,27,24,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Côte d'Ivoire",N/A,57,41,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Togo",N/A,13037,10220,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,208,46,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,73,19,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Bangladesh",N/A,110,24,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,19752,2466,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,30932,3680,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,50498,33672,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,33902,3581,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,51756,8983,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Sri Lanka",N/A,74502,9906,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,9626,4106,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,7907,2951,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,3208,626,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"India",N/A,12364,4786,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"China",N/A,15147,1329,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,4,4,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,11276,6204,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Philippines",N/A,66628,15323,Weight in kilograms
+2023-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,23294,2199,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,28868,25459,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,2640,437,Weight in kilograms
+2025-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,26861,16358,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Thailand",N/A,35180,11543,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,20,2,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,65,12,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,427,270,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,2617,506,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4441,915,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,2863,604,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,4471,739,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,1336,740,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,1801,865,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,2215,1123,Weight in kilograms
+2025-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Viet Nam",N/A,7873,3082,Weight in kilograms
+2024-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guam",N/A,128161,91008,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,18,10,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,6,10,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,9,15,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guyana",N/A,6,10,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Brazil",N/A,60951,34829,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4863632,4178243,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6798606,6218335,Weight in kilograms
+2023-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,6791621,6366666,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4713259,4054420,Weight in kilograms
+2023-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4547071,3692301,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4061856,3302272,Weight in kilograms
+2024-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Colombia",N/A,4584822,4032542,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,4812834,3588350,Weight in kilograms
+2024-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,6589967,5656179,Weight in kilograms
+2024-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,8446707,7454347,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5646240,4352989,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Ecuador",N/A,5893502,4259538,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,550213,398138,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,602375,390732,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,648719,398081,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1113501,627888,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1036609,612853,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,838225,517941,Weight in kilograms
+2024-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1230827,792846,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,715087,516141,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Peru",N/A,1042757,644063,Weight in kilograms
+2023-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,70645,38487,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,67966,33917,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,68678,34352,Weight in kilograms
+2023-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,77031,36422,Weight in kilograms
+2024-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,46086,22341,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,58654,25460,Weight in kilograms
+2025-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,57681,23990,Weight in kilograms
+2025-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Jamaica",N/A,48226,20188,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Saint Lucia",N/A,5931,6154,Weight in kilograms
+2023-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,7539179,8241844,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,9762250,10395090,Weight in kilograms
+2024-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,6947813,6651770,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,4799910,4367810,Weight in kilograms
+2025-08-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Costa Rica",N/A,3760886,3525228,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Cuba",N/A,14,4,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,4339,1585,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,3177,6681,Weight in kilograms
+2025-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Dominican Republic",N/A,2426,3795,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3001968,2351615,Weight in kilograms
+2025-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,3096045,2084455,Weight in kilograms
+2023-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2734169,2733528,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Mexico",N/A,2227929,1900861,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,24574893,23196395,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,24614081,22637486,Weight in kilograms
+2024-11-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,29573693,26900765,Weight in kilograms
+2025-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,30841372,27469758,Weight in kilograms
+2025-09-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Guatemala",N/A,31405832,28627219,Weight in kilograms
+2023-05-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,2942818,3047621,Weight in kilograms
+2024-03-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Honduras",N/A,4377653,4674506,Weight in kilograms
+2023-06-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,88572,123684,Weight in kilograms
+2023-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,87067,120528,Weight in kilograms
+2023-12-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,149187,187605,Weight in kilograms
+2024-01-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,159435,219624,Weight in kilograms
+2024-04-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,224439,254765,Weight in kilograms
+2025-02-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Nicaragua",N/A,320754,280881,Weight in kilograms
+2024-10-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,106189,134664,Weight in kilograms
+2025-07-01,"0803.90 - Bananas, other than plantains, fresh or dried",Canada,"Panama",N/A,53851,53071,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24

@@ -1,0 +1,540 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2023-06-01,"0808.10 - Apples, fresh",Canada,"United States",California,19042,13046,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",California,5763,1782,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,27,12,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,27720,14342,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,65753,13824,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,31938,20004,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",Illinois,7,1,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",Massachusetts,296,72,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,268306,135230,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,29590,15078,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,1258,1130,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,154867,107471,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,165,195,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,31326,17428,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,22348,14710,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,80659,53136,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"United States",New York,854889,1526725,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1823491,2187536,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1078237,3104118,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"United States",New York,625129,1749025,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1334766,3375828,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",New York,391326,777266,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,17068,9883,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,24752,13141,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,8593,4355,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,21,11,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,4850,2196,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,17260,7141,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",Pennsylvania,3878,1375,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,19547593,11462644,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,10943198,6009866,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,16599354,8943611,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,10,8,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,292328,111862,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,37619,16668,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,76396,32166,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,44135,38472,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,193434,60297,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,45901,18754,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,62076,21168,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,528089,286034,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,1306397,642949,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,307792,222612,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"China",N/A,313124,164122,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"China",N/A,1223685,547985,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"China",N/A,47246,18522,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"China",N/A,199322,101196,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"China",N/A,453239,195573,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"Japan",N/A,5,6,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"Thailand",N/A,537,138,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"Thailand",N/A,967,53,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Viet Nam",N/A,56,11,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"Viet Nam",N/A,50,12,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,2830,1524,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",Connecticut,67,18,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",Minnesota,68,20,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",Minnesota,7,0,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",North Carolina,838,327,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,16768495,10510256,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"Netherlands",N/A,48600,20580,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"Portugal",N/A,10982,2730,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"Poland",N/A,3330,2719,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"Nigeria",N/A,2,1,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Fiji",N/A,38,8,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"Fiji",N/A,117,28,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,6943845,2733353,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,175896,46793,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,293951,311183,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,20812,8053,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,38859,11597,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,7175733,3285302,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,4381390,2226223,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,1266944,637913,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,3169096,1371523,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,627803,270982,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,11400,23582,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,235800,209015,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,673200,869541,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,1315800,2223342,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"United States",California,36144,27855,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"United States",California,3815,284,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"United States",California,31025,19436,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,7,3,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"United States",Idaho,3,0,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",Illinois,1,1,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",Massachusetts,456,160,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,13,1,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,268,14,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,7360,4530,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",New York,2410553,4357513,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1350663,2619672,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1069053,2914025,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"United States",New York,686116,1847063,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,6143,3576,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,36739,21984,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,3513,2934,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,4199,2376,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,94365,50395,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,21553727,11955694,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,10252425,6089744,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,13742872,10509341,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,1837500,843026,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,295334,123992,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,47796,21168,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"Egypt",N/A,2267,1480,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"Egypt",N/A,6367,2289,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,406861,208940,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"India",N/A,1902,887,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"India",N/A,144,15,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"China",N/A,372379,170964,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"China",N/A,480942,209948,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"China",N/A,470793,239478,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"Thailand",N/A,1,1,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,992490,1473082,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Idaho,3,3,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,47564,21741,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",North Carolina,53867,32398,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,153,93,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,14233108,9225635,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,1981,381,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"France",N/A,47697,22344,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"Portugal",N/A,8015,2730,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"Portugal",N/A,15247,3380,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,4521392,1968489,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,1493034,559984,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,12920,4739,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,491813,214648,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,3351016,1645010,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,904573,448353,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"Dominican Republic",N/A,2,2,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Haiti",N/A,11,20,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,368151,287396,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,21250,11663,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,406410,288485,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,10351,7264,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,694233,883504,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",California,189043,79268,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"United States",California,36806,16086,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"United States",California,3129,2177,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,37,11,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"United States",Illinois,8,4,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,39973,16980,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,13936,4478,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,200784,108921,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,473916,228663,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,21135,23133,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"United States",Minnesota,24,7,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"United States",New York,871385,1575145,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"United States",New York,686741,1444716,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"United States",New York,532458,1453088,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,7653,3582,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,6879,4557,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,275,122,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,2910,2613,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,3265,1706,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,8730,5952,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"United States",Texas,41449,18085,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",Texas,795,424,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,17719782,8336189,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,19565282,11632949,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,10569049,6632967,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,16790156,10438569,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,10680607,7354163,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,1930,381,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,632835,270481,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,100266,39742,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,206906,86064,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"Egypt",N/A,45141,6559,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,786897,371642,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,59136,45965,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,378926,184454,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"India",N/A,467,50,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"China",N/A,253620,109245,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"China",N/A,215502,101268,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"China",N/A,103813,38808,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"China",N/A,96867,59038,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"Japan",N/A,1998,367,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"Japan",N/A,6322,630,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"Thailand",N/A,2494,173,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"United States",Connecticut,460,127,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",Idaho,21643,19426,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",Minnesota,593,306,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"United States",New York,2393069,4082184,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",Ohio,2718,366,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",Pennsylvania,11020,3556,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",Utah,22499,17907,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,68,16,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,11723,3134,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,39777,16000,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"Poland",N/A,43840,21337,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Egypt",N/A,7800,900,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,3388828,1555586,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,7,21,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,3219604,1178885,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,1616956,615720,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,337853,121528,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,3169764,1478948,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,83024,51467,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Dominican Republic",N/A,3,1,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,24894,14224,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,801054,696235,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,48420,62990,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,30600,26127,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",California,798,140,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",California,24602,13623,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",California,27,2,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"United States",California,25664,20242,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",California,2744,999,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"United States",Connecticut,50,5,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",Idaho,268,60,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,21,3,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,3014,817,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,24876,19052,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"United States",Minnesota,2595,600,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,3057,1634,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,14313,7075,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1084373,1837409,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",New York,129460,244300,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"United States",New York,605543,1475917,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"United States",New York,894260,2195629,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",New York,623530,1798995,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,17696,13550,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,13597196,8063008,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,18575875,8960774,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,14180787,8450651,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,1455115,592958,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,810287,347791,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,48910,21168,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,108891,34748,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,891304,455609,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,29568,22484,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,45010,22484,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"India",N/A,16,6,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"Pakistan",N/A,50,100,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"China",N/A,457891,226382,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"China",N/A,488501,212702,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"China",N/A,152705,80187,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"China",N/A,146204,74606,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"China",N/A,362934,169817,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"China",N/A,1030559,399371,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"China",N/A,476684,188046,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,5635626,2265865,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,149397,58019,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,38611,18544,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Missouri,14527,27143,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1181395,2210845,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",Ohio,42,3,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",Pennsylvania,79700,17273,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,1549,460,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,69,4,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,193,109,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"Belgium",N/A,46,16,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"Netherlands",N/A,673,278,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,43889,15015,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"Egypt",N/A,4320,2603,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,3780995,1122482,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,13959,5100,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,5584796,2584365,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,50994,27392,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,6611,1205,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,57678,23291,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,4852412,2265102,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,8391,6302,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,15,2,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Costa Rica",N/A,597,210,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Dominican Republic",N/A,6,19,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"Mexico",N/A,22,3,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,275458,196044,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,47505,46369,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,613396,489997,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,276950,250186,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",California,2167,919,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"United States",California,904378,274511,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"United States",California,150950,61351,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"United States",California,14296,11433,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,1,1,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,2020,643,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",Minnesota,1326,164,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"United States",Minnesota,61837,17781,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,84747,45413,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,31362,17434,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1070264,2009378,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"United States",New York,846505,1589071,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",New York,378706,1102718,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"United States",Utah,1,0,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,22889507,10370821,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,19069240,10054183,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,13196879,7274840,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,17573180,10592607,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,22218410,12094889,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,24246519,12767477,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,18450898,11763643,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,7461,2540,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,261,29,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,44030,21319,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,48531,18584,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,237558,75001,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,1466322,627729,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,46234,21168,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,1873838,949887,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,719565,331465,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,45588,21406,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,83362,31425,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,1586152,944332,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"India",N/A,831,91,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"China",N/A,424583,185725,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"China",N/A,402625,183429,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"China",N/A,113845,63700,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"China",N/A,2034814,812195,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"China",N/A,429964,176833,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"China",N/A,641817,289476,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"Thailand",N/A,445,43,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,19139,8751,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1368281,2456010,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Ohio,2237,213,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Pennsylvania,6442,2576,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,27,15,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"France",N/A,67758,19458,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,154990,54600,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"Poland",N/A,68268,42336,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"Algeria",N/A,2252,578,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,1492755,448327,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,27674,12415,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,2863592,1218669,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,264408,87250,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,115002,53949,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,6531044,2939542,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,1758235,970501,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,4870052,2115249,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,141822,64066,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,581944,404079,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,839569,1363116,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,115474,154239,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"United States",California,18610,10921,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"United States",California,663717,205061,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"United States",California,28193,16226,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",California,6158,4345,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,1,0,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,39512,33302,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,27,10,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,28,10,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",Illinois,7,1,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",Illinois,1,0,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"United States",Massachusetts,44,21,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,159424,159036,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,53110,36485,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,80208,55160,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,16,3,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",New York,971204,2015528,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"United States",New York,579481,1331254,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1080840,1931459,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"United States",New York,488653,1350461,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,10174,6624,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,162,85,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,232,130,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,54738,29415,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,27469,19175,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"United States",Texas,886,180,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Texas,1432,449,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,18377895,11027630,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,22485614,13155296,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,17653883,10309127,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,21895249,11563147,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"France",N/A,70138,19554,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,469035,187872,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,491631,185376,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"Portugal",N/A,16220,4029,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,70969,44688,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,2119775,1175274,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,258646,156873,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,91351,26472,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Algeria",N/A,116,45,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"India",N/A,291,36,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"China",N/A,329462,142909,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"China",N/A,303995,144840,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"China",N/A,553523,248953,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"China",N/A,396740,204133,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"Japan",N/A,4894,758,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"Japan",N/A,1298,702,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"Thailand",N/A,832,132,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"Thailand",N/A,1878,100,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,62197,25324,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,94232,38407,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",Idaho,68196,56853,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"United States",Idaho,28306,17816,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"United States",Pennsylvania,20,10,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,15,9,Weight in kilograms
+2023-01-01,"0808.10 - Apples, fresh",Canada,"France",N/A,14,15,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"France",N/A,288375,84672,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"Portugal",N/A,10080,3640,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,3575419,1781029,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,1918,726,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,5290682,2589468,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,8237,4064,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,60618,26153,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,507738,232619,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,3966324,1841651,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,3638467,1552613,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,2113667,937884,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,155354,76408,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,160026,75773,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"Jamaica",N/A,155,66,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"Mexico",N/A,4971,1087,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,31922,59195,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"United States",Arizona,3,0,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",California,2100,849,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",California,23696,14571,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",California,53059,30292,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"United States",California,12907,8124,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"United States",California,75790,32003,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",California,4247,1016,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,24565,17791,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,13,5,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,8,4,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,9,9,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Idaho,21662,20448,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",Massachusetts,183,41,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,39,5,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,1,1,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,255671,133163,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,74126,56010,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,274663,298268,Weight in kilograms
+2025-02-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,52194,30606,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,138755,72487,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"United States",New York,2441365,4163321,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1080592,2020554,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1263143,3074334,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,4787,3557,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,42672,31674,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,57675,30972,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,15995327,9587131,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,10607461,6870552,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,11523,8799,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,37029,16128,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"Portugal",N/A,4317,910,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,40320,30660,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,1361865,805493,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,423957,202408,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"Sri Lanka",N/A,120,22,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"India",N/A,870,261,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"India",N/A,921,96,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"China",N/A,177910,69015,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"China",N/A,951647,409267,Weight in kilograms
+2024-02-01,"0808.10 - Apples, fresh",Canada,"China",N/A,473936,165564,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,1696056,845622,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,533782,161101,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,112526,41706,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,613016,466069,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,73,35,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",Pennsylvania,2601,756,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"United States",Pennsylvania,33,4,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,2402,499,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"United States",Virginia,51,9,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,20023254,11541443,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,13996988,8591556,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,71,23,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"Germany",N/A,40,7,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,478100,190637,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,44173,17729,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,9715,1394,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,7273,718,Weight in kilograms
+2025-09-01,"0808.10 - Apples, fresh",Canada,"Brazil",N/A,28,20,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,93607,42924,Weight in kilograms
+2023-06-01,"0808.10 - Apples, fresh",Canada,"Costa Rica",N/A,350,143,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"Costa Rica",N/A,324,138,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"Mexico",N/A,7579,5512,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"Mexico",N/A,6079,1033,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"Canada",N/A,734400,1201684,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"United States",Arizona,32,12,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"United States",California,11355,4471,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",California,4970,1854,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"United States",California,16691,5557,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",California,5861,3166,Weight in kilograms
+2025-11-01,"0808.10 - Apples, fresh",Canada,"United States",California,56290,21217,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Florida,11,7,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",Illinois,3,1,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",Massachusetts,1548,1306,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"United States",Massachusetts,126,30,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,113353,56016,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,129094,89448,Weight in kilograms
+2024-01-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,7,1,Weight in kilograms
+2024-08-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,17709,15431,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"United States",New Jersey,43245,25453,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",New York,430691,787944,Weight in kilograms
+2024-11-01,"0808.10 - Apples, fresh",Canada,"United States",New York,272820,774649,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"United States",New York,616816,1728948,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"United States",New York,1710103,4422977,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"United States",New York,720776,1599157,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,22463,17791,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,9743,6359,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,10228,7634,Weight in kilograms
+2025-08-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,4672,4226,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"United States",Oregon,4672,2682,Weight in kilograms
+2023-12-01,"0808.10 - Apples, fresh",Canada,"United States",Texas,1733,934,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,9966097,5377413,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,10161032,6126053,Weight in kilograms
+2024-06-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,20849316,11844511,Weight in kilograms
+2024-09-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,16345481,10383923,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"United States",Washington,22259122,13273473,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"United States",Wisconsin,1946,381,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,146304,64358,Weight in kilograms
+2025-03-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,301952,123650,Weight in kilograms
+2023-08-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,98804,32230,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,95360,42256,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Spain",N/A,93151,42336,Weight in kilograms
+2023-02-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,177408,136136,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,206976,140914,Weight in kilograms
+2025-06-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,1511695,844622,Weight in kilograms
+2025-07-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,822993,467870,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"South Africa",N/A,88704,67452,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"China",N/A,228678,89427,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"China",N/A,5828,1200,Weight in kilograms
+2025-12-01,"0808.10 - Apples, fresh",Canada,"China",N/A,1394034,516219,Weight in kilograms
+2023-03-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,242812,279888,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"Argentina",N/A,91889,33339,Weight in kilograms
+2024-10-01,"0808.10 - Apples, fresh",Canada,"United States",Kentucky,15881,18289,Weight in kilograms
+2023-10-01,"0808.10 - Apples, fresh",Canada,"United States",Michigan,79834,39097,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"United States",Ohio,2544,249,Weight in kilograms
+2024-04-01,"0808.10 - Apples, fresh",Canada,"United States",South Carolina,1,0,Weight in kilograms
+2023-05-01,"0808.10 - Apples, fresh",Canada,"Italy",N/A,324400,130540,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"Portugal",N/A,19,18,Weight in kilograms
+2024-12-01,"0808.10 - Apples, fresh",Canada,"Poland",N/A,902,833,Weight in kilograms
+2023-09-01,"0808.10 - Apples, fresh",Canada,"Algeria",N/A,83,5,Weight in kilograms
+2024-07-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,4190109,1546617,Weight in kilograms
+2025-01-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,9465,1149,Weight in kilograms
+2025-05-01,"0808.10 - Apples, fresh",Canada,"New Zealand",N/A,5157957,2503500,Weight in kilograms
+2023-07-01,"0808.10 - Apples, fresh",Canada,"Brazil",N/A,1304,596,Weight in kilograms
+2024-05-01,"0808.10 - Apples, fresh",Canada,"Chile",N/A,2412482,1012508,Weight in kilograms
+2023-04-01,"0808.10 - Apples, fresh",Canada,"Jamaica",N/A,38,100,Weight in kilograms
+2024-03-01,"0808.10 - Apples, fresh",Canada,"Jamaica",N/A,30,26,Weight in kilograms
+2025-04-01,"0808.10 - Apples, fresh",Canada,"Jamaica",N/A,66,6,Weight in kilograms
+2023-11-01,"0808.10 - Apples, fresh",Canada,"Dominican Republic",N/A,6,2,Weight in kilograms
+2025-10-01,"0808.10 - Apples, fresh",Canada,"Mexico",N/A,10903,2779,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24

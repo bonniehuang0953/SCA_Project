@@ -1,0 +1,437 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,63936,16289,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"United States",California,325789,44413,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"United States",California,3432412,540425,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",California,86592636,24437546,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"United States",California,1326639,264715,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"United States",California,4667170,840149,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,244268,119353,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,11368,2084,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,42625,10160,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,49637,1357,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"United States",Massachusetts,1438,166,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Massachusetts,37960,18517,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,9159,1424,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,250,72,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,2198,2189,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,1221,1842,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,59181,13962,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"United States",New York,11352,3003,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",New York,84612,39952,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,560943,120656,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,1717,1000,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,6785,7184,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,96732,22083,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,134805,32732,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,10750,1350,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,148468,27888,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,966860,189846,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,289857,52146,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,38713,8500,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,10155432,2627131,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,6706020,1710834,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,19723132,4872982,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,1233851,303668,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"Namibia",N/A,172816,29745,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,1282532,391129,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,2189185,630240,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,12139,2235,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,14317,1004,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,21372,1174,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,24944,5509,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,668528,109319,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,650287,122552,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,160056,14566,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,943475,170139,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,3988342,848665,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,70075,11318,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,3579639,755062,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,133972,24100,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,33851265,7327271,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,34499192,7725961,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,55313,9184,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,19855,14696,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,6944784,1272358,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,6305488,1113565,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,62306,14634,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,3256482,732237,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,1745723,341193,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,771189,109148,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,45069841,13356346,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,593353,124363,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"Canada",N/A,28258,15513,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,23390,9522,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"United States",California,746264,166237,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"United States",California,224096,42335,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,40453,10986,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,276,163,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,13106,2492,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,33879,10933,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"United States",New York,56539,12121,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,22,9,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Pennsylvania,34387,19805,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,101234,40176,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Lebanon",N/A,59650,2661,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,18063437,4665433,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,33610492,8333549,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,86579,14940,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"Namibia",N/A,367680,94232,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"China",N/A,401,60,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,13190,4101,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,4005,289,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,454379,48394,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,417220,63425,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,464815,40116,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,77592,4225,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"Australia",N/A,774528,179173,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"Argentina",N/A,37881,16728,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,315608,96040,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,3964,240,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,1342576,314120,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,1605171,687256,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,43270285,8923029,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,6233892,1501789,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,55128586,10196953,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,40414294,7636912,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,2276617,430854,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,50025743,9180994,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,63676047,12778589,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"Costa Rica",N/A,19268,17418,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,113376,19757,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,162841,48198,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,375247,57332,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,2385862,400474,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,20254410,3337652,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Canada",N/A,137845,29860,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"United States",California,70939981,14975170,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"United States",California,40816795,8477942,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"United States",California,4517127,992595,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"United States",California,283167,51946,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"United States",California,30660595,7465503,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",California,69336501,21101802,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"United States",California,38793199,9623314,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"United States",California,3850268,850651,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,58007,16116,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,2325,381,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,109,50,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"United States",Minnesota,810,118,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Minnesota,1866,70,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Minnesota,64944,8372,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,1027,119,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,1172278,256815,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,20808,7484,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,4,5,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,2676455,775852,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,4836,2940,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,87746,17768,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,72333,10000,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,409206,68544,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"Egypt",N/A,68355,12730,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,36000,7201,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,16778728,4476932,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,20591,20912,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,5649801,1395371,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"Namibia",N/A,1252045,218736,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Morocco",N/A,265,120,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Mozambique",N/A,58547,16166,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,202198,51519,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,207693,51777,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,129249,7479,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,9491,578,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,549093,44078,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,1487167,150648,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"Australia",N/A,95968,15552,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,3325281,688366,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,2823544,493163,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,1502454,289122,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,49566,16460,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,10437336,3329243,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,33751507,7122403,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,8122200,1603681,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Belize",N/A,8785,1390,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,181239,29694,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"United States",California,203993,53069,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"United States",California,270407,41858,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"United States",California,59312245,15361410,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"United States",California,906237,175645,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,34314,9582,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"United States",Massachusetts,892,122,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"United States",Massachusetts,395,53,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,6659,1216,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,195,50,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,23944,3878,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"United States",New York,29544,17636,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"United States",North Carolina,10694,2939,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,118,18,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"United States",South Carolina,59516,14836,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Texas,1119,607,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,3381,33,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,118909,34851,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,62583,13056,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"Egypt",N/A,479854,64825,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"Egypt",N/A,376356,57741,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Egypt",N/A,30,5,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,71004,66680,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Namibia",N/A,968453,186131,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"Bangladesh",N/A,177,25,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"Bangladesh",N/A,472,65,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,4,3,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,66567,15304,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,19024,812,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,1207246,103682,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,408260,61498,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,86097,22684,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,6958397,1501267,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,11549543,3179141,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,37016690,10278652,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,7399650,1401475,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"Guatemala",N/A,172,25,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,63545386,14181344,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,74302,14143,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,4824006,687717,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,272389,53969,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,19295548,5224878,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,117504,22229,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"Canada",N/A,35530,9532,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Canada",N/A,160731,33133,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Canada",N/A,11236,2327,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"United States",California,76018114,19925155,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"United States",California,1307521,263005,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"United States",California,4856754,964137,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"United States",California,29602613,6665165,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"United States",California,75167887,20596466,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,224694,84417,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,859,171,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,6505,3048,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Iowa,233,44,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,40739,4562,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,2737,78,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,4569,968,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,179,75,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Minnesota,623,277,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,63185,17418,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,39350,17549,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",New York,34311,11431,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"United States",New York,10369,5830,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Texas,11734,2939,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Texas,78,63,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,15697,15035,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,6432,1551,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Wisconsin,4464,733,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"United States",Wisconsin,543,91,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,187666,48804,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,24563,3000,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,154649,31297,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Egypt",N/A,69,10,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"Egypt",N/A,130210,31840,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,34485261,8360985,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,29747684,7369900,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"Bangladesh",N/A,146,20,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,1419229,359457,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,21411,4334,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,1991,462,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,45625,1220,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,15065,1454,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,4553,209,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,710156,83335,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,752117,54777,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,425900,25072,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,870047,81710,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,313508,77953,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,406418,99536,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,310146,77553,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,29140661,5710291,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,11103692,1649770,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,26196914,8377016,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,128632,21357,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,118784,18916,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,554757,143106,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,305942,61163,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,175658,39489,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"Canada",N/A,86727,19615,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Canada",N/A,704,156,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,38184,14737,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"United States",California,427682,74015,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Connecticut,55990,16449,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,173988,40056,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,11690,430,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,3088,635,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,29076,18144,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,20407,20308,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,44064,8383,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"United States",Massachusetts,480,72,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,2971,239,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,25,20,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Minnesota,125,24,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Montana,6912,1442,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,7126,7902,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,6367,6206,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"United States",North Carolina,7143,1905,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"United States",Pennsylvania,294,114,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Pennsylvania,153305,13444,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"United States",Puerto Rico,158,16,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,39237,11762,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,70780,12349,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,61381,16268,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,223425,44263,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,896116,187186,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,2402360,414387,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"Egypt",N/A,35,5,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,2755874,683648,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,3766745,980374,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,29039186,7225868,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,175210,47641,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"Algeria",N/A,1322,626,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,4310804,1109963,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,16036,1877,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,2223,184,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,12208,466,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,86605,1958,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,783218,124331,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,55169,1807,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,741220,39609,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"Australia",N/A,657212,145445,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Australia",N/A,91872,15676,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,942706,173261,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,1141209,243322,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,3936311,845062,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,473456,117483,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,13377460,2622541,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,281491,100694,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,45616,9798,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,30902749,8058128,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,53107460,11018088,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,26994037,6831067,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,112282,22432,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,30017613,5530088,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,18425081,3265664,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,1182042,212710,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,1881115,405966,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,54272170,10244424,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,20496367,4441104,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,484735,128488,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,22800397,4374665,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,2842871,489377,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,498631,83770,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,18464134,5301129,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,104349,14842,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,44890889,9573478,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,61902,30516,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,88619,16289,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,109770,25635,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,593483,121258,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"United States",California,187344,48025,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"United States",California,15597360,3772219,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",California,76811068,18554674,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"United States",California,48903617,10933832,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"United States",California,8186234,1862989,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"United States",California,302493,93279,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"United States",California,58155263,15766195,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,3371,480,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,142448,53517,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,44120,9675,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,2265,243,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,3143,301,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,1495,1020,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,137,50,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,3332,2205,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"United States",New York,18884,15949,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,426,65,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,646862,145036,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Oregon,138124,30844,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Pennsylvania,7345,1551,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,287762,83261,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,84997,22417,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,144182,32536,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,129217,16542,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,577662,137441,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,3123371,544077,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,19297563,5234711,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,11155811,2840900,Weight in kilograms
+2024-06-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,92981,93268,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"Namibia",N/A,641357,124006,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,239360,66500,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,176,23,Weight in kilograms
+2024-01-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,807,111,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,2764185,693301,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,14,7,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,48358,4204,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,614463,24597,Weight in kilograms
+2024-12-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,1179918,90992,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,242374,19082,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,1037549,75204,Weight in kilograms
+2023-10-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,2428553,557417,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,282755,60659,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,1515230,331849,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,438192,105537,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,255052,54813,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,5877764,1244035,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,2564605,568854,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,10935795,2374157,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,53967437,10378440,Weight in kilograms
+2025-06-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,2984024,961806,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,19737820,4889770,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,1126149,251709,Weight in kilograms
+2024-11-01,"0806.10 - Grapes, fresh",Canada,"Peru",N/A,23144411,4596818,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"Guatemala",N/A,223,43,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,25997,4987,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,69855,14707,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,202456,43612,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,589217,114944,Weight in kilograms
+2025-02-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,70982,24804,Weight in kilograms
+2025-03-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,882252,129483,Weight in kilograms
+2025-09-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,325748,65692,Weight in kilograms
+2023-06-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,90202,26487,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,21569,7211,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Arizona,593234,150021,Weight in kilograms
+2023-03-01,"0806.10 - Grapes, fresh",Canada,"United States",California,316836,76557,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"United States",California,56350306,15555250,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"United States",California,366825,61142,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"United States",California,323950,89536,Weight in kilograms
+2023-01-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,146,18,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,26016,4469,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Florida,217,15,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Georgia,10651,2540,Weight in kilograms
+2024-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,97,42,Weight in kilograms
+2025-04-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,422,108,Weight in kilograms
+2025-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,308,70,Weight in kilograms
+2025-11-01,"0806.10 - Grapes, fresh",Canada,"United States",Michigan,219,91,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",Montana,3845,776,Weight in kilograms
+2023-05-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,27980,5987,Weight in kilograms
+2024-04-01,"0806.10 - Grapes, fresh",Canada,"United States",New Jersey,67685,14566,Weight in kilograms
+2023-02-01,"0806.10 - Grapes, fresh",Canada,"United States",North Carolina,148,18,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"United States",North Carolina,23104,5869,Weight in kilograms
+2023-12-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,2646,386,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,2829850,663498,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"United States",Washington,15094,5873,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"United States",Wisconsin,46,9,Weight in kilograms
+2024-09-01,"0806.10 - Grapes, fresh",Canada,"United States",Wisconsin,1233,159,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Italy",N/A,304062,69701,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,290201,52897,Weight in kilograms
+2025-12-01,"0806.10 - Grapes, fresh",Canada,"Spain",N/A,18064,4000,Weight in kilograms
+2023-11-01,"0806.10 - Grapes, fresh",Canada,"Lebanon",N/A,52656,13741,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,132549,35871,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"South Africa",N/A,69988,16728,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"Namibia",N/A,1732043,323960,Weight in kilograms
+2023-07-01,"0806.10 - Grapes, fresh",Canada,"Algeria",N/A,317,152,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,126,18,Weight in kilograms
+2025-05-01,"0806.10 - Grapes, fresh",Canada,"India",N/A,3747903,905504,Weight in kilograms
+2025-08-01,"0806.10 - Grapes, fresh",Canada,"China",N/A,764,71,Weight in kilograms
+2024-08-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,128205,8631,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"Japan",N/A,9015,452,Weight in kilograms
+2023-08-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,324497,53166,Weight in kilograms
+2024-03-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,136044,20985,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"Korea, South",N/A,1239270,97949,Weight in kilograms
+2023-09-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,181451,46770,Weight in kilograms
+2024-02-01,"0806.10 - Grapes, fresh",Canada,"Brazil",N/A,373305,70992,Weight in kilograms
+2023-04-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,32317918,8331565,Weight in kilograms
+2025-01-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,2761690,627402,Weight in kilograms
+2025-07-01,"0806.10 - Grapes, fresh",Canada,"Chile",N/A,45268,19020,Weight in kilograms
+2024-05-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,16076946,2880448,Weight in kilograms
+2024-10-01,"0806.10 - Grapes, fresh",Canada,"Mexico",N/A,335855,65147,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24

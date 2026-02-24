@@ -1,0 +1,645 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,365004,245532,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,19713,4880,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,2857,1217,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Wisconsin,9732,1638,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,229137,125420,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,43347,21580,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,5060,1221,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,20576,5636,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,4664,419,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,5774,1118,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,116,39,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,680327,269028,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,120,46,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,13499,3266,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,6050,1951,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,162741,97518,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,2656053,1436042,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,1690,648,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,4480,792,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,6866435,3720865,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,1721792,724629,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Jamaica",N/A,184,46,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,76,10,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"India",N/A,2270,642,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Viet Nam",N/A,7,3,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,10952,3828,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,7462,2517,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,252026,84617,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,8596915,3062615,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,1125,312,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,2683258,911913,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,47866,8287,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,9014924,3620801,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,28434,21600,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,1104647,401707,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,68080,22326,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,3598,898,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,154282,64620,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,550804,276473,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,1956513,1308170,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,222711,93186,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,2562638,1717494,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,5510985,2250200,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,217348,133466,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,243,60,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,4492,1107,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Ecuador",N/A,56222,24440,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,39874,23003,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,275524,36275,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,77813,9779,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,484299,173608,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,67511,31210,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,9328,2474,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,39241,4418,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,709910,242200,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,15115,764,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,71,8,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,3373968,1014623,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,10919,3792,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Nevada,113,2,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,15817,8261,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,2769,1632,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,3095,162,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,1048692,435895,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,680997,282610,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,3241,201,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"New Zealand",N/A,1806,174,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,240747,122088,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,4206473,2221168,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,286244,150624,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,722446,412976,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,5049493,2547118,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,56509,35321,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,3038,648,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,6873045,3559661,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,91041,48359,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,5387927,2108843,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,1,1,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,1422910,722149,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,4331446,1456697,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Ecuador",N/A,110,27,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Washington,21,1,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,258143,73162,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,92565,25832,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,467064,82899,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,281821,101030,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,24275,17962,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,3,1,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"France",N/A,593,60,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,1204242,344361,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Greece",N/A,2500,641,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,6859,3360,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Colombia",N/A,27,16,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,1451,372,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,80671,50297,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,3900535,2937546,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,2780,1076,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,688150,276802,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,7490,853,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,20611,7908,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,569502,273391,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,4361112,2481236,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,54041,16978,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,769954,439359,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,100861,36583,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,485,485,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,80628,44729,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,9041440,2975213,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,230730,73259,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,1771790,683298,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,21152,5448,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,4799,1193,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,374062,254326,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,232,37,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,5752626,2116610,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,193073,192268,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,113944,41384,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,12340,1800,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,213,10,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,5,7,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,209058,47756,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Michigan,687,126,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Kentucky,7035,258,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Michigan,2562,288,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,69849,43844,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,968253,490146,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,107514,28953,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,29384,17600,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,54417,34152,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,16704,5211,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Sri Lanka",N/A,84,33,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,119428,29568,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,69521,8260,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,128900,54727,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,677052,361280,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,1543,281,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,239239,55831,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,39242,3063,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,45106,17418,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,5837572,1977649,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,105,18,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,43697,20353,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,39526,4495,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,93870,69760,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,22,7,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,4447155,2046895,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,1344,124,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,33296,3848,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,1391182,651320,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Washington,14,1,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,81559,44270,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,573,42,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,95372,50633,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,2126,116,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,693978,289834,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,156575,38804,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,136666,78000,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,7382685,3599117,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,159430,93600,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,2447887,1139860,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,331730,199112,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,2250,501,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,12206595,4527087,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,6201,1800,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,17770,4850,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,1247272,395595,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Hong Kong",N/A,48773,14280,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,25,19,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,154198,66120,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Dominican Republic",N/A,4165,2613,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,5690247,2015842,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,1360269,530011,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Michigan,248,82,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,3194227,935200,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,8582,4500,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,763444,377992,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,18,10,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Fiji",N/A,59,14,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,10252,1884,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Fiji",N/A,70,17,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,526708,247542,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,173,59,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,3552107,2272174,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United Kingdom",N/A,1264,170,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,6135378,2367020,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,6469,681,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,133040,54867,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,8012,1229,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,363180,243120,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Italy",N/A,174,132,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,1406,1049,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,3689607,1402577,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,18918,6132,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Jamaica",N/A,165,44,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Cyprus",N/A,71001,40560,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,6221137,2060857,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,59,7,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,119022,21339,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,33,2,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,1995715,941889,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,318265,127155,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,449678,150601,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,962247,342935,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,5380074,2768276,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Sri Lanka",N/A,28,22,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,127562,25738,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,995050,543360,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,8638543,4601428,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,3751,325,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,1344010,513375,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,684562,367125,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Indiana,50,2,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Switzerland",N/A,115209,42846,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,341383,179906,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,339420,150965,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,11051582,3581145,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,161329,56167,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Hampshire,1,0,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,12061679,4430870,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,13745,608,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,3276,544,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Michigan,926,1298,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,4,2,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,29,20,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,171782,93600,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,14001572,5819846,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,96044,75600,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,1718168,529649,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,12,1,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,108949,37245,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,6658,1943,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,423,131,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,4549295,2154637,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,4640,253,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,118444,45360,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,117991,32847,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,4288,1078,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,120482,53439,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,5891,3988,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,632539,230557,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"New Zealand",N/A,1362,146,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,1854793,728077,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,253302,67177,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,45925,30992,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,713444,345321,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Jamaica",N/A,10,1,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"New Zealand",N/A,350,21,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,427684,129805,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,1898379,1043449,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,10630,731,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,85,4,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,3919,2112,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,8701746,2997685,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,1761,475,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,1409,102,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Portugal",N/A,4,1,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,507,139,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,4263,306,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,343142,117739,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,1724281,600472,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,6026872,2494406,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,106034,43080,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,3558147,1881473,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,118,38,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,1896,693,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,104957,23369,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,164898,54372,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,5282,2026,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,207340,107496,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,6118427,3204163,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,714277,341329,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,71904,28517,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,1047,408,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,59537,21235,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"France",N/A,2220,288,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,7329,1221,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Colombia",N/A,14,5,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,3208,352,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Washington,5411,1617,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,124789,40206,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"France",N/A,646,96,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,555405,191947,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Iran",N/A,29,23,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"India",N/A,3967,548,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,394711,142434,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,3412,762,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Pennsylvania,5915,1542,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,52121,65279,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,35,22,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Oregon,50,11,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,1498865,515324,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,2533,170,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,934419,383875,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Fiji",N/A,293,61,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,14,10,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Viet Nam",N/A,131,9,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,102173,33318,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,235392,167232,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,96,2,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,5777673,2608704,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,18181,9002,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New York,142,14,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Puerto Rico,119,20,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,90,6,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,5797683,3225376,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,570124,182220,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,3563270,1499322,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,33068,23100,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,7,2,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,6948542,2093639,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Greece",N/A,136,48,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,26347,15491,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Sri Lanka",N/A,39,20,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,1256999,399567,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,39035,42760,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,653,189,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,14149,6084,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,1142534,604307,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,2647844,820749,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,341204,187200,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,199137,158460,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,431003,267568,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,773805,439461,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,2516,147,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,440629,253103,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,39861,20400,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,128977,66432,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,30360,7140,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,9600893,5049758,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,1711292,913001,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,86439,52800,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,1986814,1026414,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,38386,20520,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,546405,389682,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,59215,25519,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,26881,18194,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,166326,110030,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,24449,3266,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,17903,10160,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,572794,229009,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,218083,80698,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,4811,868,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"France",N/A,757,66,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Pennsylvania,3,1,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Cyprus",N/A,37693,19920,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,286408,134224,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,1633,360,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,2399,1330,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,928,315,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,2978749,1996455,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,557543,307976,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,4428,793,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,476,181,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,7642,555,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,41234,22400,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,1521,478,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,14083,1714,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,2169299,1076294,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,45947,19740,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,41220,18000,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,5315138,2686578,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,457262,57190,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,7212504,2381459,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,818,93,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Delaware,41040,18240,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,509792,323865,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,2435,180,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New York,61302,11689,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,2751590,847239,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,71072,17295,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,777797,225452,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,1569294,486948,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,3434160,1957930,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,10481,6096,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,7998,2650,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,252565,192010,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,6326,346,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,10251300,4842826,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,17803,7086,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,911936,498823,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,110489,44225,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,52,8,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,308872,111236,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,86922,67500,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,1454707,443596,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,1781,523,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,11151499,4396454,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,10745786,4725617,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,4054660,2446789,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,2543716,1358384,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,244,30,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,584647,253368,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,119,49,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,1524,82,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"New Zealand",N/A,1031,91,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,192475,101687,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,917691,460593,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,230,30,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,4047,329,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,17534,19334,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Guatemala",N/A,43,17,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Washington,21,2,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,186640,137000,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,5481065,2514290,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Viet Nam",N/A,3,0,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,846,233,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,124829,34272,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,4911,1355,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,1009,259,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Macao",N/A,42120,17550,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,2,1,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,114,30,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,5973675,2182193,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,6948,3448,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,331165,107886,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,33,12,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,174,47,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,6092302,2547930,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,3124104,1139282,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,2207,396,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,235349,112276,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,716,268,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,21920,7067,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,6116157,3244168,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,841211,369956,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,1320269,539656,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,295025,103627,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,62345,39685,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,1507152,805672,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,8432456,4672782,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,73571,22380,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,8453,2994,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,3661,1344,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,4188,1260,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,151847,44797,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,41515,22421,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,6277428,2569148,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,224506,40109,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,10450,1254,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,960750,324196,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,417,72,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,155686,85102,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,5083925,1899602,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,3272747,1831304,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,216,15,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,191536,44929,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,1239640,469399,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,639540,287614,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,1837890,958849,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,26596,2412,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,3432,181,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,3046,2204,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,15633,4762,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Italy",N/A,218,18,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,2450,131,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,54450,21962,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,6843,2413,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,43923,32366,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Washington,8,0,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,2532,963,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,2105,181,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,16685820,8360792,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,1,1,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,225,218,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,5244,1197,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,7,3,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,151760,18372,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,2638761,1044067,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"India",N/A,117,21,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,1620674,484049,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,4136130,1696969,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,1842,507,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Jamaica",N/A,2788,327,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Delaware,42120,17550,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,18635,6333,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,305,74,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Virginia,7,2,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,57065,28311,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,51,13,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,198,68,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Illinois,94107,17902,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,262301,101517,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,18,9,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,296,98,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,113202,43432,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,70020,36123,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,78317,42469,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,4689,1609,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,802019,410715,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,314957,211200,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,4570513,2426805,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,363530,164962,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,229317,59589,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,2964368,964197,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,3468241,1380809,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,29114,5773,Weight in kilograms
+2023-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,1412,1322,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,233690,74955,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,505750,279209,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Montserrat",N/A,300,95,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Texas,139,53,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,204576,59414,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,91643,35709,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,52034,25730,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Tennessee,4,1,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Oregon,22,2,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,925310,665082,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,102043,27326,Weight in kilograms
+2024-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,882,246,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,1254699,505675,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,167,41,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,5626,306,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Michigan,248,20,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,36,9,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,341,13,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Missouri,1,0,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,4569,245,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,3690,630,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Georgia,3684,540,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,333044,179583,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,4200246,1652185,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,449604,237060,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,326923,261288,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,6736699,2211513,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,1089061,524319,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Egypt",N/A,226917,141620,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,3925,1402,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,7975499,3364015,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,71304,18425,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,445359,55048,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,374,387,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Illinois,3,0,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,343665,137781,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,5994192,2232293,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,6969,418,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Brazil",N/A,83,20,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,69905,33445,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Portugal",N/A,412,46,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,2127472,750372,Weight in kilograms
+2025-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,2555,1225,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,1834,99,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,8020,1049,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,253271,67335,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,6013781,3081756,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,51854,10687,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Mexico",N/A,1243,808,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,5107,292,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,2874099,1486552,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,785,286,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,192894,54882,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,68377,13969,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,1167,61,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,1461,738,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,490681,178219,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Uruguay",N/A,4845,1421,Weight in kilograms
+2023-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,3265,1960,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,2212527,643936,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,483,133,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,48922,13452,Weight in kilograms
+2023-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Oregon,93,26,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,4661349,1839747,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,73764,23720,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,1879,482,Weight in kilograms
+2023-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Viet Nam",N/A,741,107,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,22702,11984,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,853158,352141,Weight in kilograms
+2023-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,604,162,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,9450,5400,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,2568520,1817600,Weight in kilograms
+2023-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,278592,115617,Weight in kilograms
+2023-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,110983,37568,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Colombia",N/A,12,5,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,49868,11081,Weight in kilograms
+2023-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Saudi Arabia",N/A,47500,19278,Weight in kilograms
+2023-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,2604,999,Weight in kilograms
+2023-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,4156,1426,Weight in kilograms
+2023-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,322,13,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Spain",N/A,48212,12938,Weight in kilograms
+2023-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,2390,1205,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Pakistan",N/A,53918,57215,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,75334,22560,Weight in kilograms
+2024-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,8244,433,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,271314,160187,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,16496517,6480021,Weight in kilograms
+2024-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"India",N/A,199,24,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,14,10,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,93,9,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,208409,113600,Weight in kilograms
+2024-04-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,32487,24060,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,1802713,531559,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,1768982,799080,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,1003,293,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,708,43,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,4942197,1829435,Weight in kilograms
+2024-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,46615,21797,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Fiji",N/A,44,9,Weight in kilograms
+2024-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,70388,43270,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,193051,72464,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,6034,328,Weight in kilograms
+2024-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Argentina",N/A,710580,401148,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,4358114,2237175,Weight in kilograms
+2024-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,25443,17280,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,4050,246,Weight in kilograms
+2024-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Michigan,595,43,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,22,5,Weight in kilograms
+2024-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Pennsylvania,171276,97117,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,813429,257312,Weight in kilograms
+2024-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,79504,32150,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,95841,28282,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Wisconsin,176,17,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,551765,166788,Weight in kilograms
+2024-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Idaho,778,18,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,191761,55701,Weight in kilograms
+2025-01-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Türkiye",N/A,433026,248402,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",California,3179714,1034271,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,1217406,378794,Weight in kilograms
+2025-02-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Thailand",N/A,5137,268,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,301,125,Weight in kilograms
+2025-03-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,37798,4241,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Israel",N/A,663994,214526,Weight in kilograms
+2025-05-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Colombia",N/A,36,12,Weight in kilograms
+2025-06-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Peru",N/A,2558099,1714515,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Iran",N/A,3150,300,Weight in kilograms
+2025-07-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Japan",N/A,288,21,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,117442,21616,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,29635,15810,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"South Africa",N/A,9203790,4846050,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Morocco",N/A,175042,120190,Weight in kilograms
+2025-08-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Korea, South",N/A,329,42,Weight in kilograms
+2025-09-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Chile",N/A,1174349,567798,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,7576251,2865675,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Arizona,2267,808,Weight in kilograms
+2025-10-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",New Jersey,22,3,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Algeria",N/A,870,383,Weight in kilograms
+2025-11-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Australia",N/A,2870122,1038249,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"China",N/A,6671302,3029788,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"Taiwan",N/A,158400,36498,Weight in kilograms
+2025-12-01,"0805.21 - Mandarins, including tangerines and satsumas, fresh or dried",Canada,"United States",Florida,185554,33964,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24

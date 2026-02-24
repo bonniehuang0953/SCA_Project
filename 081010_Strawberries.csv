@@ -1,0 +1,416 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,47790,12192,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,64134,14225,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,4823,871,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,23282,3182,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Arizona,160,41,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,7074541,1009745,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,63799369,16686987,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,46640916,7937410,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,5346214,765088,Weight in kilograms
+2025-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,37484733,6839520,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,34385153,6063858,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,19944192,1898315,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,17390255,4302897,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,369787,57551,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,13447898,2622684,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,473326,101703,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,154236,33973,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,240770,68389,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,17636559,5076591,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Georgia,68418,19495,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Illinois,10406,907,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,212200,25129,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,52279,4399,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,3520,576,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,984,240,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,345,45,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Minnesota,355,48,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,492,109,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,19555,3281,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,1556310,103667,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,83786,24385,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,39246,10665,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,172172,20047,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,9603,1189,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,458,24,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,18409,1592,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,16734,1570,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,15579,1053,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,30032,4294,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,44783,6320,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"Senegal",N/A,6,0,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,275025,7216,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,23424649,3686022,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,774521,181882,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,9686539,1783601,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,952496,153647,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,3082493,1414674,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,220,80,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,3292235,398880,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,47764078,8387761,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,50163269,10509963,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,33134118,4247352,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,15309581,1821838,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,38980,13763,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,341166,79699,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,26916,33884,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,24077,2613,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,148670,44621,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,848426,118556,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maine,279,40,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1270,248,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,12925,1277,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,271,64,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,517,480,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,125,12,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",New Jersey,3711,118,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,152517,16460,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,6449,1414,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,150853,16198,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,415744,91496,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,5626,122,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,513758,86313,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,427371,41031,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,509422,37255,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Oregon,4746,1089,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,594,98,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,11961,2180,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,112891,14169,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,62789,8709,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,9162,1142,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,40230,4635,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"Italy",N/A,12,2,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,58013,8045,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,8279,941,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,191794,17607,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,121464,11087,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,11708,1577,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,202681,4775,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,115524,3008,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"Jamaica",N/A,280,112,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,79776,8705,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,2472036,431108,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,196371,37993,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,58862061,15279212,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,9713202,1290860,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,702450,129728,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,50117,7844,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,384983,50780,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,7848328,954641,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,19958582,4090162,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,364329,47038,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,30240,15241,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,2451,350,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1170,123,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,7748,578,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,1221,155,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,2874,517,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,71058,8712,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,1266,71,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,4763,686,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,4511,1819,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,84,23,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Missouri,51656,10451,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,56125,8404,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,72,10,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,83960,9610,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,1070465,97785,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,893797,63448,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,2142029,134849,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,223115,15455,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,302126,24247,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,540,41,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Oregon,2748,454,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,156099,35706,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,78306,9063,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,115965,12129,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,12390,944,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,10248,684,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,12133,1306,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,16759,1402,Weight in kilograms
+2025-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,8768,278,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,14660,895,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,311336,23296,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"Egypt",N/A,26959,2076,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"Egypt",N/A,28939,4652,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"Peru",N/A,69601,8214,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,6131763,1196557,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,12963318,1542180,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,35899358,4633704,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,29129705,3083253,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,14101954,1377464,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,123921,14721,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,14093,1284,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,303,284,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,5979,435,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,12396631,2062484,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,29332735,5521820,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,26177996,3126590,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,49872727,10394867,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,76035728,16994235,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,476236,109361,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,530552,139422,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,52538,12463,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Georgia,78021,37784,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,1399528,134827,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,468801,45321,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maine,34,5,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,2477,495,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,408,79,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,33,5,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,1111,54,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Minnesota,46005,14000,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Minnesota,51,4,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,97534,5210,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,131785,16521,Weight in kilograms
+2025-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,16,0,Weight in kilograms
+2025-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,36456,4354,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,39956,3003,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,13208,1317,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,105896,27333,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,31465,2295,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,6046,898,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,129505,25245,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,7450,1820,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,7033,1185,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,9591,1387,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,1181,125,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,1542,67,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",West Virginia,142000,15876,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,7326,1306,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,4858,435,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,17744,1742,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,11406,1297,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,530881,43248,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"Egypt",N/A,7341,600,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"Senegal",N/A,4,2,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"Pakistan",N/A,20,3,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"China",N/A,8,4,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,361734,8972,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,64984,1593,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,18490,198,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,4452,145,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"Peru",N/A,381035,39506,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"Guatemala",N/A,10618,1760,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,26964349,3469456,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,965707,281925,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,21783250,4499392,Weight in kilograms
+2025-08-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,738232,169127,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,44878,7847,Weight in kilograms
+2025-07-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,4288,327,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,8757076,1318859,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,38613619,6729674,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,37311731,7041329,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,51184117,15315095,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,26110573,5356154,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,386289,106948,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,9724420,1472199,Weight in kilograms
+2025-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,46095,8658,Weight in kilograms
+2025-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,36573,7200,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Iowa,822,432,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,424905,46642,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,1086958,107927,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,347035,38089,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,2482,500,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1191,110,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,9537,840,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,37897,1503,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,862,56,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,11397,2184,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,1432,187,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,508,300,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Minnesota,48758,6967,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",New Jersey,93495,8651,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,89986,14520,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,123690,16204,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,90456,13183,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,782104,81888,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,1694117,117468,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,112388,16366,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Oregon,49,4,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Oregon,3983,122,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,15943,9000,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,42707,10288,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,209004,30191,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Virginia,21571,19391,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,10503,1552,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,8292,1309,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,4812,714,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,11701,1291,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,60963,9144,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",West Virginia,82000,10886,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,11721,893,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,33731,4595,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,19135,1856,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,106385,9627,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,72438,5704,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"Japan",N/A,22,2,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,38138,5791,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,15722,178,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,209931,5776,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,19985153,2942234,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,32205637,6499775,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,2361,219,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,660,360,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,93922,13824,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,946,1020,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,1607,1018,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Arizona,36930,2921,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,11310579,1344614,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,21628830,4481613,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,47447196,8493820,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,15050820,1507312,Weight in kilograms
+2025-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,43852109,8600724,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,51231,16472,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,666564,81396,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,584623,124741,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,408502,136192,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,20375861,3320428,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Idaho,3,0,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,703662,75573,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,83010,10774,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,609,945,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1223,148,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,465393,72676,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1171,110,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,13,1,Weight in kilograms
+2025-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,60,25,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Minnesota,21,3,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",New Jersey,10,0,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,578006,58946,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,402480,33022,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,396923,25816,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,1695,129,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,107050,9660,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,381796,70483,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,8448,1211,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,6785,627,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,13135,1374,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,17026,1496,Weight in kilograms
+2025-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,20642,2160,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,32217,2880,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"Egypt",N/A,7950,696,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"Senegal",N/A,4,2,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,376876,7718,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,192674,4395,Weight in kilograms
+2023-08-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,17354,1885,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,1827066,294572,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,2973846,1464750,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,35704166,5454254,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,31528341,4857030,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,4187680,1161853,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,1582076,158895,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,38276072,8761974,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,28454819,3487561,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,17798870,1919170,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,39870019,8751571,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,7851772,919840,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,13320377,2447601,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,7856456,1030259,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,7773901,1164320,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,76232,18917,Weight in kilograms
+2025-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,1610986,145917,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Georgia,1,0,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1269,125,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1770,372,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,382,21,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Minnesota,90283,24313,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,205,66,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,337,110,Weight in kilograms
+2024-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,168,17,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,177,25,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",North Carolina,82475,17418,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,200,66,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,7582,901,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,1012903,89878,Weight in kilograms
+2023-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Oregon,1,0,Weight in kilograms
+2025-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,31678,5661,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,3803,435,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,1055234,156941,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,101681,16894,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,1,0,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,294677,40413,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,1,2,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,19539,2245,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,5652,435,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,7744,435,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,4890,816,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"Türkiye",N/A,35737,18554,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"Pakistan",N/A,23,21,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"China",N/A,27,11,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,519531,13396,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,29184,626,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"Peru",N/A,158304,18345,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,14342523,1668993,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,3444043,874233,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,14665881,1583548,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,31661320,5815530,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,793,432,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,29819,4451,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,218,69,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"Canada",N/A,69,40,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,38693518,5835469,Weight in kilograms
+2023-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,66333898,13773596,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",California,56099250,13375023,Weight in kilograms
+2025-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Delaware,20692,5102,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,139742,25485,Weight in kilograms
+2023-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,100723,18289,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Florida,18302367,4837724,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,68,22,Weight in kilograms
+2023-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,1598,215,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,1607244,141762,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,501441,80554,Weight in kilograms
+2024-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Kentucky,74720,21552,Weight in kilograms
+2025-10-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maine,450,204,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1230,154,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1185,120,Weight in kilograms
+2024-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Maryland,1190,115,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,12434,1027,Weight in kilograms
+2024-07-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,4449,567,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Massachusetts,56,46,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,437,143,Weight in kilograms
+2024-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,739,435,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,3551,406,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Michigan,3899,883,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Minnesota,39900,3048,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",New Jersey,19079,1650,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"United States",New York,44714,4655,Weight in kilograms
+2023-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",North Carolina,15050,1351,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,1175964,105111,Weight in kilograms
+2024-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,626704,48344,Weight in kilograms
+2025-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,332430,17137,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Ohio,41692,7636,Weight in kilograms
+2025-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Oregon,6878,907,Weight in kilograms
+2023-12-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,3350,499,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,4,6,Weight in kilograms
+2025-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Pennsylvania,74106,14624,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",South Carolina,9179,1042,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Texas,19237,5225,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,4500,633,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,4543,410,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,635,34,Weight in kilograms
+2024-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Washington,38668,3326,Weight in kilograms
+2023-06-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,30699,5190,Weight in kilograms
+2023-09-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,18323,1742,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,19117,3807,Weight in kilograms
+2024-05-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,19676,1792,Weight in kilograms
+2024-08-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,20659,2269,Weight in kilograms
+2025-04-01,"0810.10 - Strawberries, fresh",Canada,"United States",Wisconsin,13237,1000,Weight in kilograms
+2024-03-01,"0810.10 - Strawberries, fresh",Canada,"Spain",N/A,40904,5280,Weight in kilograms
+2025-01-01,"0810.10 - Strawberries, fresh",Canada,"Egypt",N/A,14986,1460,Weight in kilograms
+2025-02-01,"0810.10 - Strawberries, fresh",Canada,"Senegal",N/A,2,1,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"Japan",N/A,212,4,Weight in kilograms
+2023-02-01,"0810.10 - Strawberries, fresh",Canada,"Korea, South",N/A,202996,24190,Weight in kilograms
+2024-11-01,"0810.10 - Strawberries, fresh",Canada,"Dominican Republic",N/A,371,156,Weight in kilograms
+2023-01-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,34503519,4730534,Weight in kilograms
+2023-07-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,51060,8101,Weight in kilograms
+2024-02-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,31584411,5029195,Weight in kilograms
+2025-12-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,23671249,3107663,Weight in kilograms
+2025-07-01,"0810.10 - Strawberries, fresh",Canada,"Mexico",N/A,1570512,459296,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24

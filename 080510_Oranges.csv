@@ -1,0 +1,1030 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,476,314,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,64634,49391,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,19895795,12344599,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,2804301,1348186,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,11830064,6155840,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,1723395,566200,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,19753,9007,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,13090,6133,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,186961,92898,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,104993,68499,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,14,8,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,883,70,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,867,152,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1046,69,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,443,97,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Indiana,188,16,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Iowa,82,27,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,72,17,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,826,61,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,4622,816,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,666,220,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,994,335,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,6529,5195,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,93745,25335,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,1233,283,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,13418,3943,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,288,54,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,59329,41190,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,25544,20926,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"France",N/A,7496,360,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,1754,380,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arkansas,22648,21300,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Hawaii,89,26,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,0,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,6,3,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,11124,5914,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,24031,1336,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,146,20,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Missouri,6014,3629,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",North Dakota,45,18,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,7789,3743,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,129,66,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,1752571,1146958,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,3610080,2237795,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,9041,1050,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,8,2,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Portugal",N/A,72692,20475,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Portugal",N/A,21,3,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,7495985,4208604,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,990,200,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,253,505,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Israel",N/A,82478,24816,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Israel",N/A,200096,61869,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Jordan",N/A,1086,362,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Jordan",N/A,20,10,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Lebanon",N/A,33733,24908,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,210,88,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,2045180,1242694,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,2032369,1289275,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,2952363,2539503,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,549,160,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,15106680,10836844,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,15236870,10162984,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,537029,430837,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,53769,41640,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Uganda",N/A,6,5,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,2352591,1130910,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,8537536,4696621,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,2449,385,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,413,109,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,765,80,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,824922,246513,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,997,89,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,2844,1757,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,6036,2742,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,415,156,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,7863,3482,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,9144,6084,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,3879190,1775350,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,5226,950,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Hong Kong",N/A,115,23,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,8000,3999,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,1972,302,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,1227,462,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,1000,250,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,32962,9408,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,79,39,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,133,71,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,212,115,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,844,422,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,277,30,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,1477266,685195,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,3852084,1734237,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,57890,49920,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,552936,362433,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,1278535,950661,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Brazil",N/A,1293,198,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Brazil",N/A,160,80,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,336850,134251,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,256,184,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,4497,1762,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,31,26,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,20,10,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,40,40,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,3219,1960,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Ecuador",N/A,534,50,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,150080,92363,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,17907,7978,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,349440,296989,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,155152,86400,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,1160,494,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,400,35,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,28,3,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,367,100,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,3388,1774,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,29811,12810,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,54884,21708,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,22101,12911,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,44661,22116,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,11,12,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,25615,22910,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Guatemala",N/A,605,26,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,227144,145856,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,6408,2346,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,18380,9060,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,721,92,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,31024,9000,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,109579,45921,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,6701261,2448464,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Fiji",N/A,114,27,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,157700,124800,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,22391,17422,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,131049,125435,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,87450,46710,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,133364,77524,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Trinidad and Tobago",N/A,147,17,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,24916,11706,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,108102,93690,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,9130,5879,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,19619808,11878567,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,4807515,3148048,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,2542463,1463857,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,1600029,616733,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,58100,30053,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,369845,206685,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,296376,159106,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,5,1,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Hawaii,86,26,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,0,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,904,434,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,477,36,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1,0,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,599,51,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,46,18,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,20,7,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,2464,211,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,1568,426,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,1302,630,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,22752,18728,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,663,64,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,152,78,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,6383,2939,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,12,4,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,22,4,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,14,3,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Wisconsin,833,272,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United Kingdom",N/A,3573,214,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,6327,2890,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,734,190,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,16640,10669,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Connecticut,52,5,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Hawaii,198,26,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,5148,2448,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,4992,1320,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,13257,911,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,10595,1420,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",North Carolina,17391,974,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Ohio,653,155,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,126,46,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",South Carolina,1,0,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,12439,8468,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Virginia,20143,18615,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",District of Columbia,8,4,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"France",N/A,15,5,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,7,3,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,381,28,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,6805,4059,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,17,6,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,494685,429041,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,362912,339612,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Greece",N/A,16236,2428,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,2924,588,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,3283734,2132617,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Albania",N/A,301,262,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,1129,366,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Israel",N/A,23240,2585,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Jordan",N/A,17,8,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Jordan",N/A,82,20,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Saudi Arabia",N/A,82880,44387,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,774066,488080,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,2061861,1515229,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,3651241,3221734,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,13650,15750,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,8145645,5456735,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,31030,17287,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Côte d'Ivoire",N/A,6,7,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,2746150,1134606,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,1931405,1162977,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,3929584,1634933,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,67,17,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,820802,225229,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,147838,31159,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,465,82,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,257,72,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Korea, South",N/A,35200,19360,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,14200358,8879965,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,8669,7611,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,20,10,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,4195,2911,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Mali",N/A,45,21,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,58341,17280,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,600,100,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,4420,670,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,3515,352,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,3743,490,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,8250,1190,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,46,10,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,30000,48960,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,15000,24000,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Afghanistan",N/A,700,100,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,548,95,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Korea, South",N/A,82,65,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,139,8,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,68,31,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,4677,1607,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,220,70,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,925,77,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,3,3,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,61,6,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,274,76,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,1652485,760213,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,1001626,701567,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Brazil",N/A,318,142,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,162941,74833,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,143,95,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Ecuador",N/A,1515,980,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,8103,5892,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,316833,198253,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,187,120,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,1217836,852256,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,534056,335606,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,405416,237287,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,462,148,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,3024,465,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,3254,1261,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,872,200,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,43028,17585,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,18588,11993,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,21451,6869,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,16691,18294,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,20363,20096,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,44445,20731,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,241421,128355,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,257019,156983,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,79983,42080,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,64,18,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,188565,107712,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,137123,73313,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,1696089,764694,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,2393434,937822,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"New Zealand",N/A,936,109,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"New Zealand",N/A,2796,415,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,296563,261681,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,23292,24908,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,126416,102640,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,823862,644176,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,15557,5879,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,7,2,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,22176905,11857739,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,12295758,7142891,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,1819766,717826,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,24683224,13178412,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,17704774,10175480,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,89728,46405,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,772665,420239,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,513625,338252,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,4,0,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,19017,9340,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,0,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,6,0,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1054,77,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,261,131,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,898,489,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1041,72,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,281,18,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,4183,334,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,56521,17932,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Minnesota,11,0,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Missouri,3977,2939,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,16,5,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,123,38,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,393,162,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,32183,24769,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,2000,709,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,442,110,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,52869,17636,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,47287,22662,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,13609,6158,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,19,3,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Wisconsin,22,6,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,28746,21109,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,10633,4188,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,4,3,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1751,898,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,10054,674,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,192,21,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,409,149,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",North Dakota,10,1,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,7437,3865,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,6697265,3684175,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,51709,22056,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,106315,96611,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,5231789,3857118,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Greece",N/A,861,920,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,14506,1544,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,170,86,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,43480,6261,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Netherlands",N/A,45,14,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Portugal",N/A,7,3,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,2498906,1256746,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,1560031,732508,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,1161818,644324,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,948077,615329,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,7050264,3755986,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United Arab Emirates",N/A,2720,1360,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,178,313,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Jordan",N/A,28,14,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Lebanon",N/A,204023,150643,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,915129,639709,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,77906,37440,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,514774,290160,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,2421939,2263948,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,212907,171831,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,9266273,6395289,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Côte d'Ivoire",N/A,3,4,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,3025778,1463859,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,311417,213039,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,241,35,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,660,120,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,94597,39849,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,310494,75698,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,175891,49040,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,54813,25930,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,307608,81190,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,7846,1779,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,1908,205,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,9191,1047,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Korea, South",N/A,120,26,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Macao",N/A,35067,7076,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,3095803,1949571,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Zimbabwe",N/A,185968,117062,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Zimbabwe",N/A,60584,39000,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,804,520,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,20176,9928,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,20291,11689,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,813232,377297,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,4899,1958,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,7189,1010,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,5764,1048,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Hong Kong",N/A,50,17,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Hong Kong",N/A,717,173,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,20000,24000,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Afghanistan",N/A,8609,1335,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,15540,6939,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,1657,767,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,581,45,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,1005,143,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Macao",N/A,95790,49950,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,75,4,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,102,51,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,9176,2380,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,908,44,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,16,2,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,22587,24320,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,1233229,869349,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Brazil",N/A,162,135,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,613,272,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,684703,398764,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,270687,97748,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,40,40,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,763318,432773,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,687,168,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,88162,46107,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,2142,904,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,1911,980,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,1561,360,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,291,60,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,8403,8127,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,15671,5888,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,12348,13735,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,10828,19928,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,18928,7452,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,18692,19726,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,18642,12674,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,15702,12197,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Guatemala",N/A,1665,132,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Guatemala",N/A,124,24,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Guatemala",N/A,2868,508,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,17931,7803,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,280,91,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,164555,91824,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,5921,2052,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,498,163,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,297488,152632,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Fiji",N/A,232,55,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"New Zealand",N/A,825,84,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,887345,427293,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,44346,13348,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,51194,32108,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,4274,950,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,19759166,11353634,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,1807839,743290,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,17604735,9549714,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,11267119,7060415,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,4683390,2294351,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,9898,4568,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,12912,6978,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,684297,432352,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,0,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,7026,3210,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,44843,15182,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,45468,18044,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,683,113,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,322,135,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,22,8,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,341,119,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,156,33,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,44,21,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,16,9,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,4485,1696,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,13782,7338,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,23494,18630,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,1129,933,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,1,0,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,2,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,3,0,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1,0,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,3508,960,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,12208,950,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,6736,572,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,14,4,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,32,10,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,16,5,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,46635,29950,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,3962,2368,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Wisconsin,10498,2914,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"France",N/A,12,4,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,4028107,1786874,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,2601172,2042198,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,17399,2860,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,11050,2257,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Portugal",N/A,2,1,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,3493444,2138808,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,813950,382683,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,1892280,1129300,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,97623,39852,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Switzerland",N/A,18481,9734,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Bulgaria",N/A,915,120,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Lithuania",N/A,13461,6445,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,149,419,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,147,300,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Saudi Arabia",N/A,15120,16800,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,406558,298221,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,4623761,4050623,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,6775019,6272905,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,275898,179072,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,63330,24000,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,70045,44128,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,13545936,8797502,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,148163,103475,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,1376190,697829,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,11,8,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,70302,32874,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,30000,4906,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,253553,92396,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,225994,70718,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,68246,24908,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,1634,159,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,19973,4010,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,626,205,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,224,20,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,3078,485,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,2894,368,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,13287179,8975134,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,8928,8249,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,893,419,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,1354,330,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Mali",N/A,23,11,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,3495336,1649158,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,73111,52704,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,230,60,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,16659,1790,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Hong Kong",N/A,595,286,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,47402,48304,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,2199,2199,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,24669,2987,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,400,89,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,158,32,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,4017,377,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,19,2,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,10,5,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,43526,47952,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Brazil",N/A,8061,624,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,19638,14716,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,53230,38231,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,64,40,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,2964,823,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,3090,541,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,44970,23779,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,38641,20847,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,208,102,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,43645,18874,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,46206,14831,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,39446,19583,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,194671,150388,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,242039,168473,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,201754,116931,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,12183,9875,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,298958,158026,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,12990,4432,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,717,72,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,1300,250,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,252,82,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,1296488,634029,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,1724220,833256,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,340530,130805,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"New Zealand",N/A,1176,625,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,280632,214055,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,2045,720,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,1269,390,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,626125,451535,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,1288,685,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,31556,18630,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,9092365,4277399,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,20025842,12313157,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,16312290,9340385,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,9694392,5607086,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Colorado,8,1,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,487167,266808,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,2529,693,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,60218,36240,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,1,0,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,2394,200,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,724,54,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,449,97,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,139,100,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,394,90,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,32,12,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,320,101,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,349,171,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,3595,2446,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,132,64,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,23385,7685,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,1404,216,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,3989,2839,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,1611,424,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,22,4,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,22,4,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,7494,4077,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,14056,7691,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Colorado,16,6,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,123870,65473,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Hawaii,230,81,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,505,39,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,7645,3822,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,8812,3344,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,20093,1325,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,16,5,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,1046,662,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,366,121,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United Kingdom",N/A,1,1,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United Kingdom",N/A,776,48,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,47283,19459,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,334374,178131,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,275923,145810,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,41061,19684,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,10985701,7787151,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,4030,480,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,202316,107655,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,4440910,2559187,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,134410,82630,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,257,100,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,57,35,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Israel",N/A,5,4,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Israel",N/A,156888,41835,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,557870,393817,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,607258,386655,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,288570,155360,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,613924,318240,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,201,16,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,3073633,2461836,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,11694020,8016670,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,65200,5412,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Côte d'Ivoire",N/A,19,23,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,4022448,1993834,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,4993912,2852508,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,518,44,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,273,24,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,773578,224468,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,16089,3224,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,4893,1029,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,612,106,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,510,62,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Zimbabwe",N/A,417446,274200,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,11616,11061,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,21481,7049,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,560,287,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,865800,551592,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,840,120,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,5120,660,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,1595,210,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,31121,28080,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,2803,2803,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Afghanistan",N/A,317,164,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Macao",N/A,33510,6634,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,2349,122,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,2164,243,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,211462,192616,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,136133,118562,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,34411,9707,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,108240,53137,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,3777,1349,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,10607,6981,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,236,67,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,532645,300625,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,1995,426,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,971,272,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,429169,261206,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,266732,168898,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,358599,204266,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,929,301,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,22021,5291,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,21733,24909,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,38346,45024,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,345606,244154,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,640595,576757,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,134584,90726,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,835,140,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,5279,2083,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,18719415,11847384,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,1919111,798803,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,5683998,2946615,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,838525,464658,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,73783,30911,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,49249,30012,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,35830,34165,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,9127,7619,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Hawaii,42,3,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,1958,276,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,33,10,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,87,23,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,414,146,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,375,71,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,86,33,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,274,16,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,175,53,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,860,192,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,37,7,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,9280,3039,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",North Carolina,1,1,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,54,27,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,17,5,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,4,1,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,19,3,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,74,34,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,5034,1140,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Colorado,8,3,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,1,5,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,0,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,3,1,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,2,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,5220,192,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,3744,2169,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,135,20,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,48,16,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,546,195,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,813,364,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Pennsylvania,7603,3105,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,97477,49950,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,5023,622,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,7567,6010,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,350166,164527,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,6194986,4432968,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,18586,2324,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,2403,483,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,8716,1690,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,1278,140,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,2607,306,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,2762920,1777288,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,2120362,1293914,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,2245317,1353633,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Lebanon",N/A,196649,149446,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Saudi Arabia",N/A,395,163,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,378227,253753,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,713,88,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,4092934,3753346,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,85338,36180,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,14619935,10113599,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,25676723,17062646,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Uganda",N/A,45,6,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,7340113,3142646,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,1348074,581003,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,7208305,2740235,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,6622703,2451289,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,4010329,2023571,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,120,60,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,230,20,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,1430,260,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,1498,304,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,102017,38238,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,131119,87066,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,1843,183,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,525,52,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Korea, South",N/A,1180,54,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,8197960,5750053,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,24660,10196,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,2570,610,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,4098,1624,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,4525,550,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,4196,783,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,3575,650,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Hong Kong",N/A,696,48,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Indonesia",N/A,66,30,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,4300,1138,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,24015,3752,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,6996,927,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Macao",N/A,379508,199620,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,15,8,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,1348,186,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,134000,51710,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,59504,23038,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,129165,72201,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,252534,122356,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,184759,99829,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,2534,230,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,159847,87398,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,860,381,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,59056,64076,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Jamaica",N/A,2076,404,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,648,150,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,1523,350,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,10827,19329,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,37361,16429,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Guatemala",N/A,5043,349,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,2797,1270,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,1788,635,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,53800,22512,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Haiti",N/A,30,15,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,892,299,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,1273,308,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,10348,7725,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,2932046,1353096,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,4483047,1856793,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,17177,20160,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Paraguay",N/A,59,4,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,2948,1090,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,15081,6998,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,3567,950,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,2491849,1287845,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,23929918,13088422,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,14789162,9215863,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,7294245,4269933,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,2070699,1000047,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Colorado,1,1,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,655319,374952,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,606767,387822,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,326172,205334,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,891,287,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,290126,122611,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,159386,95117,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,87808,50588,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,134124,97970,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,6125,2335,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,1,0,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,214,48,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,154,8,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1,0,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,27,9,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,307,43,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,615,196,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,472,151,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,32,14,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,5349,3960,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,78540,30554,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,49511,51899,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,24,13,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,7779,5135,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,17912,11756,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,4,3,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,48,19,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,4,1,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Indiana,20,9,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Kentucky,55,28,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,5640,3031,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,3379,900,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,2126,163,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,3108,229,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,29,5,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,197,12,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Montana,2572,1742,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,41,22,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Pennsylvania,1,0,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",South Carolina,81,54,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",South Dakota,486,160,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,79182,62499,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,47,17,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Texas,1937,711,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Wisconsin,492,245,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United Kingdom",N/A,5,1,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Austria",N/A,267,34,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,14,10,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,439,28,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,463,27,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,193516,113217,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Greece",N/A,149861,54638,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,5423301,3175057,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,837651,517052,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,1623568,851992,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,135,98,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Israel",N/A,126340,40930,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Israel",N/A,175331,55668,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Jordan",N/A,83,20,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Lebanon",N/A,129606,145179,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Saudi Arabia",N/A,5022,2939,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Saudi Arabia",N/A,6060,2776,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,2424542,2255988,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,2108670,2063226,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,1895025,1598496,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,38864,26383,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,69070,38126,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Uganda",N/A,51,10,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,3670302,1921883,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,5338823,2704427,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,408688,246758,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,1268,163,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,135581,44722,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,691883,232421,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,22680,11340,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,455,234,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,2119,259,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Zimbabwe",N/A,93533,57330,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,6072,2659,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,21623,10393,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,11186,3926,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,662409,388721,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,80455,49999,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,42,48,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,1130,120,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,6738,1225,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,234,125,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,362308,109488,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,204388,62317,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,1431,570,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,195,22,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,889,124,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,199,37,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,135,72,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,2960068,1227877,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,393556,319440,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Brazil",N/A,216,115,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,188011,94548,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,420806,193721,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,879847,559828,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,9747,2778,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,48,40,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,47480,31514,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,31,9,Weight in kilograms
+2024-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Ecuador",N/A,1,2,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,18752,21210,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Peru",N/A,8805,2974,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,138090,92436,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,22487,8294,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,32288,21339,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,43106,18308,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,229486,180397,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,167667,120981,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,5210,2232,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,225217,149549,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,252037,148334,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,376,111,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,101779,42360,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,181745,108548,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,266365,164258,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,255655,142008,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,235,26,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,6946401,2641638,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Fiji",N/A,372,87,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Argentina",N/A,154291,124800,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,1192027,654455,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,294841,95915,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,30995,9842,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,67739,54546,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,763,300,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,29505,26002,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,38020,25118,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Haiti",N/A,16,9,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Canada",N/A,86523,57738,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,4463,5211,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,9214,4615,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,18042954,10609164,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,22796547,11798145,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,14776379,9279391,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,1602576,728173,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,14378548,7990526,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",California,2075876,925240,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,436195,302691,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,6049,2162,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,350426,184435,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,509,137,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,247540,137770,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Florida,135384,80569,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Georgia,3683,499,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Idaho,6,3,Weight in kilograms
+2024-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,680,85,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,21,1,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,901,167,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1880,199,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,282,68,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,94,36,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Michigan,1846,507,Weight in kilograms
+2023-07-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,518,174,Weight in kilograms
+2023-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,129,39,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,81,28,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,23016,17741,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,536,199,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,16,5,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New York,40,18,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,40,19,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,325,162,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Utah,1,0,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,7224,2939,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,8,2,Weight in kilograms
+2025-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,29,7,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Arizona,16259,8351,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Illinois,1844,201,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Indiana,192,22,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,4713,2564,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,10607,2777,Weight in kilograms
+2023-08-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,15148,7770,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Maryland,7866,1535,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,65,20,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Nevada,4,1,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",New Jersey,304,88,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Oregon,28,15,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"United States",Washington,202,14,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"France",N/A,17,10,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,1284,160,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,2002140,1129540,Weight in kilograms
+2024-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,181,81,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Greece",N/A,19617,10920,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Italy",N/A,1201,532,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,1735746,1104808,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Spain",N/A,237530,123679,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Georgia",N/A,772,250,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Georgia",N/A,90,50,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Georgia",N/A,473,174,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,65,190,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,3188,372,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Iran",N/A,374,64,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Türkiye",N/A,431150,294010,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,606659,543889,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,861448,745911,Weight in kilograms
+2025-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,3107852,2461737,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Egypt",N/A,8395025,7288952,Weight in kilograms
+2023-09-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,9769561,7151615,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,154199,107400,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,2020,1499,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Morocco",N/A,4739527,2317176,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,745,120,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"India",N/A,3166,1273,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,211634,65626,Weight in kilograms
+2024-07-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,150611,44284,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,208345,69217,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,190248,85412,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"China",N/A,179069,100350,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,1961,276,Weight in kilograms
+2024-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,275,27,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,3836,521,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Japan",N/A,4274,997,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Korea, South",N/A,35552,17600,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,22620042,15011428,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"South Africa",N/A,9739386,6177293,Weight in kilograms
+2023-10-01,"0805.10 - Oranges, fresh or dried",Canada,"Zimbabwe",N/A,678390,419756,Weight in kilograms
+2025-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,26288,16769,Weight in kilograms
+2025-07-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,618,172,Weight in kilograms
+2025-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Algeria",N/A,469,126,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Tunisia",N/A,1820,260,Weight in kilograms
+2025-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,587,77,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,3588,487,Weight in kilograms
+2025-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Bangladesh",N/A,5741,899,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Hong Kong",N/A,1166,81,Weight in kilograms
+2023-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,21443,10574,Weight in kilograms
+2023-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,200,36,Weight in kilograms
+2024-12-01,"0805.10 - Oranges, fresh or dried",Canada,"Pakistan",N/A,2144,2306,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,100,52,Weight in kilograms
+2024-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,57,5,Weight in kilograms
+2025-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,76,14,Weight in kilograms
+2023-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,171,14,Weight in kilograms
+2024-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Viet Nam",N/A,1035,72,Weight in kilograms
+2024-11-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,881072,340320,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,4432,4465,Weight in kilograms
+2025-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Chile",N/A,9616,3477,Weight in kilograms
+2023-06-01,"0805.10 - Oranges, fresh or dried",Canada,"Colombia",N/A,32,16,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Ecuador",N/A,5601,3429,Weight in kilograms
+2023-05-01,"0805.10 - Oranges, fresh or dried",Canada,"Costa Rica",N/A,403,100,Weight in kilograms
+2023-02-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,17035,11539,Weight in kilograms
+2025-04-01,"0805.10 - Oranges, fresh or dried",Canada,"Dominican Republic",N/A,2105,1483,Weight in kilograms
+2024-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Guatemala",N/A,3,1,Weight in kilograms
+2025-09-01,"0805.10 - Oranges, fresh or dried",Canada,"Mexico",N/A,60039,28266,Weight in kilograms
+2025-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Taiwan",N/A,981,72,Weight in kilograms
+2024-01-01,"0805.10 - Oranges, fresh or dried",Canada,"Thailand",N/A,275,27,Weight in kilograms
+2023-03-01,"0805.10 - Oranges, fresh or dried",Canada,"Australia",N/A,112,36,Weight in kilograms
+2024-08-01,"0805.10 - Oranges, fresh or dried",Canada,"Uruguay",N/A,12130,5004,Weight in kilograms
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-02-24
